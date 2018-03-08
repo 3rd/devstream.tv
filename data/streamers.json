@@ -1,14 +1,28 @@
 [
   {
+    "name": "56 Game Studios",
+    "twitch": "56gamestudios",
+    "tags": [
+      "Game Development",
+      "Unity"
+    ],
+    "links": {
+      "Twitch": "https://www.twitch.tv/56gamestudios",
+      "Website": "http://56gamestudios.com/",
+      "Twitter": "https://twitter.com/56gamestudios",
+      "Instagram": "https://www.instagram.com/56gamestudios/"
+    }
+  },
+  {
     "name":"Suz Hinton",
     "twitch":"noopkat",
     "tags":[
       "IoT",
-      " Web Development",
-      " Hardware Hacking",
-      " 3D Printing",
-      " Node.js",
-      " JavaScript"
+      "Web Development",
+      "Hardware Hacking",
+      "3D Printing",
+      "Node.js",
+      "JavaScript"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/noopkat",
@@ -23,10 +37,10 @@
     "twitch":"ferossity",
     "tags":[
       "JavaScript",
-      " Node.js",
-      " Frameworks",
-      " Developer Tooling",
-      " Web Development"
+      "Node.js",
+      "Frameworks",
+      "Developer Tooling",
+      "Web Development"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/ferossity",
@@ -41,10 +55,10 @@
     "twitch":"thlorenz",
     "tags":[
       "Node.js",
-      " Module Development",
-      " Developer Tooling",
-      " Web Development",
-      " JavaScript"
+      "Module Development",
+      "Developer Tooling",
+      "Web Development",
+      "JavaScript"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/thlorenz",
@@ -59,8 +73,8 @@
     "twitch":"sxywu",
     "tags":[
       "Data Visualisation (DataViz)",
-      " JavaScript",
-      " React"
+      "JavaScript",
+      "React"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/sxywu",
@@ -76,9 +90,9 @@
     "twitch":"thelarkinn",
     "tags":[
       "Webpack",
-      " OSS",
-      " JavaScript",
-      " Gaming"
+      "OSS",
+      "JavaScript",
+      "Gaming"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/thelarkinn",
@@ -91,10 +105,10 @@
     "twitch":"kentcdodds",
     "tags":[
       "JavaScript",
-      " React",
-      " Web Development",
-      " Open Source",
-      " Node.js"
+      "React",
+      "Web Development",
+      "Open Source",
+      "Node.js"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/kentcdodds",
@@ -111,9 +125,9 @@
     "twitch":"kyleshevlin",
     "tags":[
       "React",
-      " JavaScript",
-      " Functional Programming",
-      " Web Development"
+      "JavaScript",
+      "Functional Programming",
+      "Web Development"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/kyleshevlin",
@@ -127,10 +141,10 @@
     "twitch":"clarkio",
     "tags":[
       "Node.js",
-      " JavaScript",
-      " IoT",
-      " Web Development",
-      " Swift"
+      "JavaScript",
+      "IoT",
+      "Web Development",
+      "Swift"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/clarkio",
@@ -147,10 +161,10 @@
     "twitch":"yoshuawuyts",
     "tags":[
       "OSS maintenance",
-      " Tooling Development",
-      " JavaScript",
-      " Node.js",
-      " Choo"
+      "Tooling Development",
+      "JavaScript",
+      "Node.js",
+      "Choo"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/yoshuawuyts",
@@ -163,9 +177,9 @@
     "twitch":"scanlime",
     "tags":[
       "Reverse Engineering",
-      " Rust",
-      " C++",
-      " Hardware"
+      "Rust",
+      "C++",
+      "Hardware"
     ],
     "links":{
       "YouTube":"https://www.youtube.com/user/micahjd",
@@ -181,9 +195,9 @@
     "twitch":"stainlessio",
     "tags":[
       "Rust",
-      " Functional Programming",
-      " Hardware",
-      " Generative Art"
+      "Functional Programming",
+      "Hardware",
+      "Generative Art"
     ],
     "links":{
       "Twitch":"https://twitch.tv/stainlessio",
@@ -198,9 +212,9 @@
     "twitch":"syropian",
     "tags":[
       "JavaScript",
-      " PHP",
-      " Laravel",
-      " Vue.js"
+      "PHP",
+      "Laravel",
+      "Vue.js"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/syropian",
@@ -214,8 +228,8 @@
     "twitch":"yamalight",
     "tags":[
       "OSS",
-      " building things with JavaScript",
-      " React"
+      "building things with JavaScript",
+      "React"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/yamalight",
@@ -230,10 +244,10 @@
     "twitch":"serpent_ai",
     "tags":[
       "Python",
-      " Serpent.AI Framework Dev",
-      " Machine Learning",
-      " AI",
-      " Computer Vision"
+      "Serpent.AI Framework Dev",
+      "Machine Learning",
+      "AI",
+      "Computer Vision"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/serpent_ai",
@@ -251,9 +265,9 @@
     "twitch":"bitandbang",
     "tags":[
       "Node.js",
-      " Node.js Community Committee",
-      " JavaScript",
-      " Maintaining OSS Projects"
+      "Node.js Community Committee",
+      "JavaScript",
+      "Maintaining OSS Projects"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/bitandbang",
@@ -268,11 +282,11 @@
     "twitch":"talk2megooseman",
     "tags":[
       "JavaScript",
-      " Node.js",
-      " ReactJS",
-      " React Native",
-      " APIs",
-      " Web Development"
+      "Node.js",
+      "ReactJS",
+      "React Native",
+      "APIs",
+      "Web Development"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/talk2megooseman",
@@ -286,14 +300,14 @@
     "twitch":"rw_grim",
     "tags":[
       "Pidgin Development",
-      " Convey Development",
-      " Open Source Development",
-      " C",
-      " Golang",
-      " Python",
-      " JavaScript",
-      " Docker",
-      " Containers"
+      "Convey Development",
+      "Open Source Development",
+      "C",
+      "Golang",
+      "Python",
+      "JavaScript",
+      "Docker",
+      "Containers"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/rw_grim",
@@ -314,8 +328,8 @@
     "twitch":"thomasbs_",
     "tags":[
       "Golang",
-      " PHP (Laravel)",
-      " JavaScript"
+      "PHP (Laravel)",
+      "JavaScript"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/thomasbs_",
@@ -329,8 +343,8 @@
     "twitch":"pavithrakodmad",
     "tags":[
       "JavaScript",
-      " CSS",
-      " Open Source Stuff"
+      "CSS",
+      "Open Source Stuff"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/pavithrakodmad",
@@ -344,9 +358,9 @@
     "twitch":"hardlydifficult",
     "tags":[
       "Game Development (Unity3D",
-      " C#)",
-      " C# Programming",
-      " Cryptocurrency"
+      "C#)",
+      "C# Programming",
+      "Cryptocurrency"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/hardlydifficult",
@@ -361,7 +375,7 @@
     "twitch":"radicalfishgames",
     "tags":[
       "Game Development (JavaScript",
-      " WebGL) (Game: CrossCode)"
+      "WebGL) (Game: CrossCode)"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/radicalfishgames",
@@ -375,9 +389,9 @@
     "twitch":"handmade_hero",
     "tags":[
       "C",
-      " C++",
-      " Game Development",
-      " Algorithms"
+      "C++",
+      "Game Development",
+      "Algorithms"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/handmade_hero",
@@ -391,11 +405,11 @@
     "twitch":"ferrisstreamsstuff",
     "tags":[
       "Emulator Development",
-      " Demoscene Tools",
-      " Hardware Hacking",
-      " Rust",
-      " C",
-      " C++"
+      "Demoscene Tools",
+      "Hardware Hacking",
+      "Rust",
+      "C",
+      "C++"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/ferrisstreamsstuff",
@@ -412,9 +426,9 @@
     "twitch":"csharpfritz",
     "tags":[
       "C#",
-      " .NET",
-      " ASP.NET",
-      " OSS and Pair Programming"
+      ".NET",
+      "ASP.NET",
+      "OSS and Pair Programming"
     ],
     "links":{
       "Twitch":"https://twitch.tv/csharpfritz",
@@ -430,8 +444,8 @@
     "twitch":"jessicamak",
     "tags":[
       "C++",
-      " OpenGL",
-      " Game Development"
+      "OpenGL",
+      "Game Development"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/jessicamak",
@@ -445,8 +459,8 @@
     "twitch":"swizec",
     "tags":[
       "JavaScript",
-      " React",
-      " D3"
+      "React",
+      "D3"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/swizec",
@@ -461,11 +475,11 @@
     "twitch":"scinos",
     "tags":[
       "Node.js",
-      " React",
-      " MobX",
-      " Docker",
-      " DevOps",
-      " Full Stack Development"
+      "React",
+      "MobX",
+      "Docker",
+      "DevOps",
+      "Full Stack Development"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/scinos",
@@ -479,10 +493,10 @@
     "twitch":"rthor",
     "tags":[
       "JavaScript",
-      " React",
-      " Web Development",
-      " Open Source",
-      " Node.js"
+      "React",
+      "Web Development",
+      "Open Source",
+      "Node.js"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/rthor",
@@ -495,12 +509,12 @@
     "twitch":"simalexan",
     "tags":[
       "Serverless",
-      " Node.js",
-      " JavaScript",
-      " Claudia.js",
-      " Chat bots",
-      " Web Development",
-      " OSS"
+      "Node.js",
+      "JavaScript",
+      "Claudia.js",
+      "Chat bots",
+      "Web Development",
+      "OSS"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/simalexan",
@@ -515,11 +529,11 @@
     "twitch":"adam13531",
     "tags":[
       "Node.js",
-      " JavaScript",
-      " React",
-      " PixiJS",
-      " Full Stack Development",
-      " Game Development"
+      "JavaScript",
+      "React",
+      "PixiJS",
+      "Full Stack Development",
+      "Game Development"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/adam13531",
@@ -535,11 +549,11 @@
     "twitch":"hawkinjs",
     "tags":[
       "JavaScript",
-      " Node.js",
-      " Rust",
-      " Python",
-      " OSS Projects",
-      " Gaming"
+      "Node.js",
+      "Rust",
+      "Python",
+      "OSS Projects",
+      "Gaming"
     ],
     "links":{
       "Twitch":"https://twitch.tv/hawkinjs",
@@ -553,7 +567,7 @@
     "twitch":"daroou2",
     "tags":[
       "Emulator Development",
-      " C++"
+      "C++"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/daroou2",
@@ -568,8 +582,8 @@
     "twitch":"drunkdevs",
     "tags":[
       "Game Development",
-      " Game Maker: Studio",
-      " Aseprite"
+      "Game Maker: Studio",
+      "Aseprite"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/drunkdevs",
@@ -584,10 +598,10 @@
     "twitch":"syanoks",
     "tags":[
       "Operating System Development",
-      " C",
-      " Assembly",
-      " Shell",
-      " Python"
+      "C",
+      "Assembly",
+      "Shell",
+      "Python"
     ],
     "links":{
       "Twitch":"https://www.twitch.tv/syanoks",
