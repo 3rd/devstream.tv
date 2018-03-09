@@ -697,5 +697,14 @@
       "twitter": "https://twitter.com/devwarstv",
       "facebook": "https://www.facebook.com/DevWars/"
     }
+  },
+  {
+    "name": "Jack Mott",
+    "twitch": "jackmott42",
+    "tags": ["Game Development", "Go", "Golang", "SDL", "SDL2"],
+    "links": {
+      "website": "https://gameswithgo.org/",
+      "twitter": "https://twitter.com/jackmott42",
+    }
   }
 ]
