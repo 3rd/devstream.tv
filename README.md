@@ -1,6 +1,8 @@
-# devstream.tv developer repo
+# devstream.tv community repo
 
 [devstream.tv](https://devstream.tv) is a website that indexes developers that stream on Twitch (for now) and lets you easily see which developers are streaming right now and offers you a nice interface to watch them.
+
+The site updates every minute from **this repo** (it updates the streamers list).
 
 This project is inspired by [https://github.com/bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
 
@@ -14,6 +16,8 @@ The streamer list and related information is in the ```data/streamers.json``` fi
 Each entry has a predefined set of properties, ensure you respect the "schema" when you submit a pull-request.
 
 The **links** object can contain **any number of links**, which will be mapped on devstream.tv to either certain icons (GitHub, Twitter, etc.) or labels of their key. 
+
+The format will be changed in the near future to also integrate YouTube, and all the current entries will be automatically migrated to the new format.
 
 Example:
 ```json
