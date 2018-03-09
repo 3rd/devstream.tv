@@ -643,6 +643,20 @@
     }
   },
   {
+    "name": "Erik Rydeman",
+    "twitch": "doborog",
+    "tags": [
+      "Game Development",
+      "C#",
+      "Unity"
+    ],
+    "links": {
+      "Twitch": "https://www.twitch.tv/doborog",
+      "Twitter": "https://twitter.com/iamdoborog",
+      "Website": "https://doborog.com"
+    }
+  },
+  {
     "name":"DrunkDevs",
     "twitch":"drunkdevs",
     "tags":[
