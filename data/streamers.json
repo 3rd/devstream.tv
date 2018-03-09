@@ -8,6 +8,19 @@
     "links": {}
   },
   {
+    "name": "Jonathan Blow",
+    "twitch": "naysayer88",
+    "tags": [
+      "Game Development",
+      "Language Development"
+    ],
+    "links": {
+      "Twitch": "https://www.twitch.tv/naysayer88",
+      "YouTube": "https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ",
+      "Twitter": "https://twitter.com/Jonathan_Blow"
+    }
+  },
+  {
     "name": "Games With Go",
     "twitch": "jackmott42",
     "tags": [
