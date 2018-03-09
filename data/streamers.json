@@ -19,7 +19,23 @@
       "YouTube": "https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ",
       "Twitter": "https://twitter.com/Jonathan_Blow"
     }
-  },  
+  },
+  {
+    "name": "Games With Go",
+    "twitch": "jackmott42",
+    "tags": [
+      "Game Development",
+      "Go",                  
+      "Teaching",
+      "Mac",
+      "Windows",
+      "Linux"
+    ],
+    "links": {
+      "Twitch": "https://www.twitch.tv/jackmott42",
+      "Website": " https://gameswithgo.org/"
+    }
+  },
   {
     "name": "David",
     "twitch": "genesis_tv_",
