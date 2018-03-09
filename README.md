@@ -2,7 +2,7 @@
 
 [devstream.tv](https://devstream.tv) is a website that indexes developers that stream on Twitch (for now) and lets you easily see which developers are streaming right now and offers you a nice interface to watch them.
 
-The site updates every minute from **this repo** (it updates the streamers list).
+The site updates every 5 minutes from **this repo** (it updates the streamers list).
 
 This project is inspired by [https://github.com/bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
 
