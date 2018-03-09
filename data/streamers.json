@@ -1,5 +1,23 @@
 [
   {
+    "name": "Mikkel",
+    "twitch": "mljware",
+    "tags": [
+      "Game Development"
+    ],
+    "links": {}
+  },
+  {
+    "name": "David",
+    "twitch": "genesis_tv_",
+    "tags": [
+      "C#"
+    ],
+    "links": {
+      "Twitch": "https://www.twitch.tv/genesis_tv_"
+    }
+  },
+  {
     "name": "56 Game Studios",
     "twitch": "56gamestudios",
     "tags": [
