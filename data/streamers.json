@@ -258,6 +258,24 @@
     }
   },
   {
+    "name":"Brendan Enrick",
+    "twitch":"DevChatter",
+    "tags":[
+      "C#",
+      ".NET",
+      ".NET Core",
+      "ASP.NET",
+      "ASP.NET Core",
+      "Pair Programming"
+    ],
+    "links":{
+      "Twitch":"https://twitch.tv/devchatter",
+      "Twitter":"https://twitter.com/DevChatter_",
+      "GitHub":"https://github.com/DevChatter",
+      "YouTube":"https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA"
+    }
+  },
+  {
     "name":"Nicholas Brochu",
     "twitch":"serpent_ai",
     "tags":[
