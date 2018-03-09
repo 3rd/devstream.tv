@@ -33,7 +33,7 @@ Example:
 }
 ```
 
-### Contribuiting
+### Contributing
 
 If you would like to add a streamer, fork the repo, add an entry to ```data/streamers.json``` and submit a pull request. The order the streamers are organized in does not matter, as devstream.tv will sort them by online viewers.
 
