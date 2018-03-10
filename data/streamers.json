@@ -801,5 +801,16 @@
       "GitHub": "https://github.com/CodeBytesTV",
       "YouTube": "https://www.youtube.com/channel/UCeyV-rDg85evpxiZ28NlI0Q"
     }
+  },
+  {
+    "name": "Nicolás Marulanda P.",
+    "twitch": "nmarulo",
+    "tags": ["Web Development", "JAVA", "PHP", "C#", "JavaScript", "MySQL", "Bootstrap CSS"],
+    "links": {
+      "Github": "https://github.com/nmarulo",
+      "Website": "http://softn.red",
+      "Twitter": "https://twitter.com/nmarulo",
+      "Twitter": "https://www.twitch.tv/nmarulo"
+    }
   }
 ]
