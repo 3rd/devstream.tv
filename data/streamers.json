@@ -831,5 +831,16 @@
       "Twitter": "https://twitter.com/nmarulo",
       "Twitch": "https://www.twitch.tv/nmarulo"
     }
+  },
+  {
+    "name": "Jen Tong",
+    "twitch": "mimmingcodes",
+    "tags": ["STEM", "Programming", "Python", "NodeJS", "Hexo", "Firebase", "IoT"],
+    "links": {
+      "Github": "https://github.com/mimming",
+      "Website": "https://mimming.com",
+      "Twitter": "https://twitter.com/MimmingCodes",
+      "Twitch": "https://www.twitch.tv/mimmingcodes"	    
+    }		  
   }
 ]
