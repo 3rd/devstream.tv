@@ -841,6 +841,17 @@
       "Website": "https://mimming.com",
       "Twitter": "https://twitter.com/MimmingCodes",
       "Twitch": "https://www.twitch.tv/mimmingcodes"	    
-    }		  
+    }
+  },
+  {
+    "name": "Dan Jasnowski",
+    "twitch": "danjasnowski",
+    "tags": ["Web Development", "Node.js", "Game Development", "JavaScript", "Vue.js", "PHP", "Laravel"],
+    "links": {
+      "GitHub": "https://github.com/naknode",
+      "Twitter": "https://twitter.com/danjasnowski",
+      "Twitch": "https://www.twitch.tv/danjasnowski",
+      "LinkedIn": "https://www.linkedin.com/in/danjp/"
+    }
   }
 ]
