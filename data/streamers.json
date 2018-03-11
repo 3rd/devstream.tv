@@ -10,6 +10,49 @@
     }
   },
   {
+    "name": "David Joffe",
+    "twitch": "david_joffe",
+    "tags": [
+      "Game Development",
+      "Retro",
+      "2D",
+      "Platform shooter",
+      "Puzzle Games",
+      "Applications",
+      "Web Development",
+      "wxWidgets",
+      "Languages",
+      "Unicode",
+      "Localization",
+      "Terminology",
+      "Lexicography",
+      "Dictionaries",
+      "Photoshop",
+      "Art",
+      "Open Source",
+      "Visual Studio",
+      "LibSDL",
+      "Linux",
+      "Cross-platform",
+      "C++",
+      "PHP"
+    ],
+    "links": {
+      "Twitch": "https://www.twitch.tv/david_joffe",
+      "YouTube": "https://www.youtube.com/channel/UC6FDv1AsC7Ozwl5DxnkpqPA",
+      "Periscope": "https://www.pscp.tv/DavidJoffe",
+      "Mixer": "https://mixer.com/gnukem111",
+      "GitHub": "http://github.com/davidjoffe",
+      "LiveEdu": "https://www.liveedu.tv/david_joffe/",
+      "website": "http://djoffe.com/",
+      "Instagram": "https://www.instagram.com/joffe.david/",
+      "Twitter": "https://twitter.com/d_joffe",
+      "Blog": "http://djoffe.com/blog/",
+      "LinkedIn": "https://www.linkedin.com/in/david-joffe-50771b4",
+      "Facebook": "https://www.facebook.com/david.joffe.art/"
+    }
+  },
+  {
     "name": "Mikkel",
     "twitch": "mljware",
     "tags": [
