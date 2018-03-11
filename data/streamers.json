@@ -765,10 +765,42 @@
   {
     "name": "David Joffe",
     "twitch": "david_joffe",
-    "tags": ["C++", "PHP"],
+    "tags": [
+      "C++",
+      "PHP",
+      "2D",
+      "Game Development",
+      "Platform shooter",
+      "Applications",
+      "Web Development",
+      "wxWidgets",
+      "Languages",
+      "Unicode",
+      "Localization",
+      "Terminology",
+      "Lexicography",
+      "Dictionaries",
+      "Photoshop",
+      "Art",
+      "Open Source",
+      "Visual Studio",
+      "LibSDL",
+      "Linux",
+      "Cross-platform",
+      "Retro"
+    ],
     "links": {
       "Twitch": "https://www.twitch.tv/david_joffe",
-      "GitHub": "https://github.com/davidjoffe"
+      "YouTube": "https://www.youtube.com/channel/UC6FDv1AsC7Ozwl5DxnkpqPA",
+      "Periscope": "https://www.pscp.tv/DavidJoffe",
+      "Mixer": "https://mixer.com/gnukem111",
+      "GitHub": "http://github.com/davidjoffe",
+      "LiveEdu": "https://www.liveedu.tv/david_joffe/",
+      "website": "http://djoffe.com/",
+      "Instagram": "https://www.instagram.com/joffe.david/",
+      "Twitter": "https://twitter.com/d_joffe",
+      "LinkedIn": "https://www.linkedin.com/in/david-joffe-50771b4",
+      "Facebook": "https://www.facebook.com/david.joffe.art/"
     }
   },
   {
