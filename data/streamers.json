@@ -7,8 +7,8 @@
     "Website": "http://www.cultofrig.com",
     "GitHub": "https://github.com/CultOfRig",
     "Twitter": "https://twitter.com/ThE_JacO"
-    }
-  },
+  }
+},
   {
     "name": "Mikkel",
     "twitch": "mljware",
@@ -809,9 +809,9 @@
     "tags": ["Embedded", "Electronics", "ARM", "C", "C++"],
     "links": {
       "Twitch": "https://www.twitch.tv/5upercircuits",
-	  "Website": "http://5upercircuits.com/",
+      "Website": "http://5upercircuits.com/",
       "Twitter": "https://twitter.com/5uperCircuits",
-	  "Facebook": "https://www.facebook.com/5uperCircuits/"
+      "Facebook": "https://www.facebook.com/5uperCircuits/"
     }
   },
   {
@@ -872,10 +872,10 @@
       "Github": "https://github.com/mimming",
       "Website": "https://mimming.com",
       "Twitter": "https://twitter.com/MimmingCodes",
-      "Twitch": "https://www.twitch.tv/mimmingcodes"	    
+      "Twitch": "https://www.twitch.tv/mimmingcodes"
     }
   },
-   {
+  {
     "name": "Per Vognsen",
     "twitch": "pervognsen",
     "tags": ["FPGA", "C", "C++", "Python", "Operating System Development", "Systems Applications", "Kernel Programming", "Hardware"],
@@ -884,7 +884,7 @@
       "Discord": "https://discordapp.com/invite/7TSA6ZF",
       "Twitter": "https://twitter.com/pervognsen",
       "Twitch": "https://www.twitch.tv/pervognsen",
-      "Youtube": "https://youtube.com/c/pervognsen"	    
+      "Youtube": "https://youtube.com/c/pervognsen"
     }
   },
   {
@@ -909,6 +909,5 @@
       "LinkedIn": "https://www.linkedin.com/in/vaniakucher/",
       "Youtube": "https://www.youtube.com/user/TheMrVanisha"
     }
-  },
-}
+  }
 ]
