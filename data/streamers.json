@@ -315,7 +315,7 @@
     }
   },
   {
-    "name": "Brendan Enrick",
+    "name": "Brendan Enrick (DevChatter)",
     "twitch": "DevChatter",
     "tags": [
       "C#",
@@ -329,7 +329,9 @@
       "Twitch": "https://twitch.tv/devchatter",
       "Twitter": "https://twitter.com/DevChatter_",
       "GitHub": "https://github.com/DevChatter",
-      "YouTube": "https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA"
+      "YouTube": "https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA",
+      "Discord": "https://discord.gg/aQry9jG",
+      "Patreon": "https://www.patreon.com/DevChatter"
     }
   },
   {
