@@ -940,5 +940,15 @@
       "Twitch": "https://www.twitch.tv/pixelogicdev",
       "LinkedIn": "https://www.linkedin.com/in/adilanchian/"
     }
-  }
+  },
+ { 
+    "name": "FunnyGuy77",
+    "twitch": "funnyguy77",
+    "tags": ["Unity3d", "Game Development", "C#", "Blender"],
+    "links": {
+      "Twitter": "https://twitter.com/FunnyGuyTwitch",
+      "Twitch": "https://www.twitch.tv/funnyguy77",
+      "My game": "http://fortygame.com/",
+    }
+  },
 ]
