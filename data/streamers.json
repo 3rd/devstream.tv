@@ -1044,5 +1044,15 @@
       "Twitch":"https://www.twitch.tv/funnyguy77",
       "My game":"http://fortygame.com/"
     }
+  },
+  { 
+    "name": "Geert-Johan",
+    "twitch": "geertjohan",
+    "tags": ["Go", "Programming"],
+    "links": {
+      "GitHub": "https://github.com/GeertJohan",
+      "Twitter": "https://twitter.com/GeertJohan",
+      "Twitch": "https://www.twitch.tv/geertjohan"
+    }
   }
 ]
