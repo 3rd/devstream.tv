@@ -1054,5 +1054,15 @@
       "Twitter": "https://twitter.com/GeertJohan",
       "Twitch": "https://www.twitch.tv/geertjohan"
     }
+  },
+  {
+    "name": "Rúben Gomes",
+    "twitch": "rgomex",
+    "tags": ["Web Development", "API's", "Programming", "Node.js", "ES6/ES7", "JavaScript", "Vue"],
+    "links": {
+      "github": "https://github.com/rubengomex",
+      "website": "https://rubengomes10.github.io/",
+      "Twitch": "https://www.twitch.tv/rgomex"
+    }
   }
 ]
