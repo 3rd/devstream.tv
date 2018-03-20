@@ -1055,6 +1055,17 @@
       "Twitch": "https://www.twitch.tv/geertjohan"
     }
   },
+  {
+    "name": "Rúben Gomes",
+    "twitch": "rgomex",
+    "tags": ["Web Development", "API's", "Programming", "Node.js", "ES6/ES7", "JavaScript", "Vue"],
+    "links": {
+      "discord": "https://discord.gg/4qDQdXu",
+      "github": "https://github.com/rubengomex",
+      "website": "https://rubengomes10.github.io/",
+      "Twitch": "https://www.twitch.tv/rgomex"
+    }
+  },
   { 
     "name": "rockzombie2",
     "twitch": "rockzombie2",
