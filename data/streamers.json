@@ -1,5 +1,18 @@
 [
   {
+    "name": "Avaer Kazmer",
+    "twitch": "avaer",
+    "tags": ["AR Development", "Mixed Reality", "Magic Leap", "Web Development", "API's", "Programming", "Node.js", "ES6/ES7", "JavaScript", "OpenGL"],
+    "links": {
+      "Website": "https://webmr.io",
+      "GitHub": "https://github.com/webmixedreality",
+      "Twitch": "https://www.twitch.tv/avaer",
+      "YouTube": "https://www.youtube.com/channel/UCbeboI7dMETmnUro91AxJZA",
+      "Twitter": "https://twitter.com/webmixedreality",
+      "Slack": "https://exoslack.now.sh"
+    }
+  },
+  {
     "name":"Jeff Lindsay",
     "twitch":"progrium",
     "tags":[
