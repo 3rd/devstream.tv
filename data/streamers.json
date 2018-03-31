@@ -1088,5 +1088,17 @@
       "Twitter": "https://twitter.com/rockzombie2",
       "Twitch": "https://www.twitch.tv/rockzombie2"
     }
+  },
+  { 
+    "name": "James Pain",
+    "twitch": "jpainio",
+    "tags": ["C#", "DevOps", "Computer Vision", "Web Development", "Azure"],
+    "links": {
+      "Website": "http://jpain.io",
+      "GitHub": "https://github.com/jpain",
+      "Twitter": "https://twitter.com/jpainio",
+      "Twitch": "https://www.twitch.tv/jpainio",
+      "LinkedIn":"https://www.linkedin.com/in/jpainio/"
+    }
   }
 ]
