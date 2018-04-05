@@ -1100,5 +1100,27 @@
       "Twitch": "https://www.twitch.tv/jpainio",
       "LinkedIn":"https://www.linkedin.com/in/jpainio/"
     }
+  },
+  {
+    "name":"Noob Dev Gedöns",
+    "twitch":"noobdevtv",
+    "tags":[
+      "C#",
+      "Games",
+      "Engenious",
+      "Education",
+      "German",
+      "OctoAwesome",
+      "AntMe",
+      "Noobs"
+    ],
+    "links":{
+      "GitHub":"https://github.com/NoobDevTv",
+      "Twitter":"https://twitter.com/Noob_Dev_Tv",
+      "Twitch":"https://www.twitch.tv/noobdevtv",
+      "Teamspeak":"ts3server://drachenfeste.eu/",
+      "Youtube":"https://www.youtube.com/channel/UCIWEvJ9SHMQoouIe86z6buQ",
+      "Telegram":"https://t.me/NoobDevStream"
+    }
   }
 ]
