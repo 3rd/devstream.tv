@@ -1089,6 +1089,23 @@
       "Twitch": "https://www.twitch.tv/rockzombie2"
     }
   },
+  {
+    "name": "HarlanJI",
+    "twitch": "ispoogedaily",
+    "tags": ["Clojure", "Docker", "Architecture", "Product Design", "Livestreaming"],
+    "links": {
+      "Website": "https://ispooge.com",
+      "AuthorWebsite": "https://harlanji.com",
+      "GitHub": "https://github.com/harlanji",
+      "Patreon": "https://patreon.com/harlanji",
+      "Twitter": "https://twitter.com/ispoogedaily",
+      "SpoogeTube": "https://ispooge.com/live.html",
+      "YouTube": "https://www.youtube.com/channel/UCUMn9G0yzhQWXiRTOmPLXOg",
+      "Gab.ai": "https://gab.ai/ispooge",
+      "SteemIt": "http://steemit.com/@ispooge",
+      "DTube": "https://d.tube/#!/c/ispooge"
+    }
+  },
   { 
     "name": "James Pain",
     "twitch": "jpainio",
