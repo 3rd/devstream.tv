@@ -1153,5 +1153,25 @@
       "Twitter": "https://twitter.com/tek256",
       "Patreon": "https://www.patreon.com/tek256"
     }
+  },
+  {
+    "name": "KreyNation",
+    "twitch": "kreynationbv",
+    "tags": [
+      "Node.js",
+      "Laravel",
+      "JavaScript",
+      "Full Stack Development",
+      "Web Agency",
+      "Web Development"
+    ],
+    "links": {
+      "Twitch": "https://twitch.tv/kreynationbv",
+      "Discord": "https://discord.gg/sQbZb6z",
+      "Instagram": "https://instagram.com/kreynation",
+      "Website": "https://www.kreynation.com",
+      "Blog": "https://blog.kreynation.com",
+      "Twitter": "https://twitter.com/kreynation"
+    }
   }
 ]
