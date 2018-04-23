@@ -1058,7 +1058,7 @@
       "My game":"http://fortygame.com/"
     }
   },
-  { 
+  {
     "name": "Geert-Johan",
     "twitch": "geertjohan",
     "tags": ["Go", "Programming"],
@@ -1079,7 +1079,7 @@
       "Twitch": "https://www.twitch.tv/rgomex"
     }
   },
-  { 
+  {
     "name": "rockzombie2",
     "twitch": "rockzombie2",
     "tags": ["JavaScript", "Programming", "Node.js", "Web Development", "Vim", "League of Legends"],
@@ -1106,7 +1106,7 @@
       "DTube": "https://d.tube/#!/c/ispooge"
     }
   },
-  { 
+  {
     "name": "James Pain",
     "twitch": "jpainio",
     "tags": ["C#", "DevOps", "Computer Vision", "Web Development", "Azure"],
@@ -1152,6 +1152,18 @@
       "GitHub": "https://github.com/tek256",
       "Twitter": "https://twitter.com/tek256",
       "Patreon": "https://www.patreon.com/tek256"
+    }
+  },
+  {
+    "name": "Levi makes apps",
+    "twitch": "levimakesapps",
+    "tags": ["OSS", "iOS", "Android", "Product Design", "API's", "Node.js"],
+    "links": {
+      "Website": "https://levimakesapps.com/",
+      "Twitch": "https://twitch.tv/levimakesapps",
+      "GitHub": "https://github.com/levibostian",
+      "Twitter": "https://twitter.com/levimakesapps",
+      "YouTube": "https://www.youtube.com/channel/UCi6LazKSCVOWAT2cYGiEgVQ"
     }
   }
 ]
