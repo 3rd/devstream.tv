@@ -1165,5 +1165,30 @@
       "Twitter": "https://twitter.com/levimakesapps",
       "YouTube": "https://www.youtube.com/channel/UCi6LazKSCVOWAT2cYGiEgVQ"
     }
+  },
+  {
+    "name": "Brian McKenna",
+    "twitch": "puffnfresh",
+    "tags": ["Haskell", "Functional Programming"],
+    "links": {
+      "Twitch": "https://www.twitch.tv/puffnfresh",
+      "Github": "https://github.com/puffnfresh",
+      "Youtube": "https://www.youtube.com/c/BrianMcKennaPuffnfresh",
+      "BitBucket": "https://bitbucket.org/puffnfresh",
+      "Twitter": "https://twitter.com/puffnfresh",
+      "Website": "https://brianmckenna.org/blog/"
+    }
+  },
+  {
+    "name": "Edward Kmett",
+    "twitch": "ekmett",
+    "tags": ["Haskell"],
+    "links": {
+      "Twitch": "https://www.twitch.tv/ekmett",
+      "Website": "http://comonad.com/",
+      "GitHub": "https://github.com/ekmett",
+      "Twitter": "https://twitter.com/kmett",
+      "Youtube": "https://www.youtube.com/user/edwardkmett"
+    }
   }
 ]
