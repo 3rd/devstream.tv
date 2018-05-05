@@ -1190,5 +1190,64 @@
       "Twitter": "https://twitter.com/kmett",
       "Youtube": "https://www.youtube.com/user/edwardkmett"
     }
+  },
+  {
+    "name": "Scope Web LLC",
+    "twitch": "ScopeWebLLC",
+    "tags": [
+      "Node.js",
+      "Laravel",
+      "JavaScript",
+      "Full Stack Development",
+      "Web Agency",
+      "Web Development"
+    ],
+    "links": {
+      "Twitch": "https://twitch.tv/scopewebllc",
+      "Discord": "https://discord.gg/sQbZb6z",
+      "Instagram": "https://instagram.com/scopeweb",
+      "Website": "https://www.scopeweb.nyc",
+      "GitHub": "https://github.com/scopeweb",
+      "Twitter": "https://twitter.com/scopewebnyc"
+    }
+  },
+  {
+    "name": "Stephan Moerman",
+    "twitch": "DevBowser",
+    "tags": [
+      "PHP",
+      "Laravel",
+      "Ruby on Rails",
+      "Full Stack Development",
+      "Freelancer",
+      "Web Development"
+    ],
+    "links": {
+      "Twitch": "https://twitch.tv/devbowser",
+      "Discord": "https://discord.gg/sQbZb6z",
+      "Instagram": "https://instagram.com/stephan.m90",
+      "Website": "https://www.stmoerman.me",
+      "GitHub": "https://github.com/devbowser",
+      "Twitter": "https://twitter.com/stmoerman"
+    }
+  },
+  {
+    "name": "Nathan Henniges",
+    "twitch": "MrDemonWolf",
+    "tags": [
+      "Grav CMS",
+      "WordPress",
+      "JavaScript",
+      "UI design",
+      "Web Development"
+    ],
+    "links": {
+      "Twitch": "https://twitch.tv/mrdemonwolf",
+      "Discord": "https://discord.gg/KNyYZMu",
+      "Instagram": "https://instagram.com/scopeweb",
+      "Website": "https://www.mrdemonwolf.me",
+      "GitHub": "https://github.com/mrdemonwolf",
+      "Twitter": "https://twitter.com/mrdemonwolf"
+    }
   }
 ]
