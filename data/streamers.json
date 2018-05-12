@@ -1249,5 +1249,20 @@
       "GitHub": "https://github.com/mrdemonwolf",
       "Twitter": "https://twitter.com/mrdemonwolf"
     }
+  },
+  {
+    "name": "PeteyCodes",
+    "twitch": "peteycodes",
+    "tags": [
+      "Game Development",
+      "C",
+      "Positivity"
+    ],
+    "links": {
+      "Twitch": "https://twitch.tv/peteycodes",
+      "GitHub": "https://github.com/peteycodes",
+      "Twitter": "https://twitter.com/peteycodes",
+      "YouTube": "https://youtube.com/peteycodes"
+    }
   }
 ]
