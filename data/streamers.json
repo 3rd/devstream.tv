@@ -1,1268 +1,1288 @@
-[
-  {
-    "name": "Avaer Kazmer",
-    "twitch": "avaer",
-    "tags": ["AR Development", "Mixed Reality", "Magic Leap", "Web Development", "API's", "Programming", "Node.js", "ES6/ES7", "JavaScript", "OpenGL"],
-    "links": {
-      "Website": "https://webmr.io",
-      "GitHub": "https://github.com/webmixedreality",
-      "Twitch": "https://www.twitch.tv/avaer",
-      "YouTube": "https://www.youtube.com/channel/UCbeboI7dMETmnUro91AxJZA",
-      "Twitter": "https://twitter.com/webmixedreality",
-      "Slack": "https://exoslack.now.sh"
-    }
-  },
-  {
-    "name":"Jeff Lindsay",
-    "twitch":"progrium",
-    "tags":[
-      "Game Development",
-      "Go",
-      "Web Development",
-      "Developer Tooling",
-      "Open Source Development",
-      "Unity",
-      "C#"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/progrium",
-      "YouTube":"https://www.youtube.com/channel/UCoej7Lrz8ugDp1ZHmYyjOsg",
-      "Twitter":"https://twitter.com/progrium"
-    }
-  },
-  {
-    "name":"Cult of Rig",
-    "twitch":"cultofrig",
-    "tags":[
-      "python",
-      "graphics",
-      "C++",
-      "maya3d"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/cultofrig",
-      "Website":"http://www.cultofrig.com",
-      "GitHub":"https://github.com/CultOfRig",
-      "Twitter":"https://twitter.com/ThE_JacO"
-    }
-  },
-  {
-    "name":"Mikkel",
-    "twitch":"mljware",
-    "tags":[
-      "Game Development"
-    ],
-    "links":{
+[{
+		"name": "Avaer Kazmer",
+		"twitch": "avaer",
+		"tags": ["AR Development", "Mixed Reality", "Magic Leap", "Web Development", "API's", "Programming", "Node.js", "ES6/ES7", "JavaScript", "OpenGL"],
+		"links": {
+			"Website": "https://webmr.io",
+			"GitHub": "https://github.com/webmixedreality",
+			"Twitch": "https://www.twitch.tv/avaer",
+			"YouTube": "https://www.youtube.com/channel/UCbeboI7dMETmnUro91AxJZA",
+			"Twitter": "https://twitter.com/webmixedreality",
+			"Slack": "https://exoslack.now.sh"
+		}
+	},
+	{
+		"name": "Jeff Lindsay",
+		"twitch": "progrium",
+		"tags": [
+			"Game Development",
+			"Go",
+			"Web Development",
+			"Developer Tooling",
+			"Open Source Development",
+			"Unity",
+			"C#"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/progrium",
+			"YouTube": "https://www.youtube.com/channel/UCoej7Lrz8ugDp1ZHmYyjOsg",
+			"Twitter": "https://twitter.com/progrium"
+		}
+	},
+	{
+		"name": "Cult of Rig",
+		"twitch": "cultofrig",
+		"tags": [
+			"python",
+			"graphics",
+			"C++",
+			"maya3d"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/cultofrig",
+			"Website": "http://www.cultofrig.com",
+			"GitHub": "https://github.com/CultOfRig",
+			"Twitter": "https://twitter.com/ThE_JacO"
+		}
+	},
+	{
+		"name": "Mikkel",
+		"twitch": "mljware",
+		"tags": [
+			"Game Development"
+		],
+		"links": {
 
-    }
-  },
-  {
-    "name":"Jonathan Blow",
-    "twitch":"naysayer88",
-    "tags":[
-      "Game Development",
-      "Language Development"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/naysayer88",
-      "YouTube":"https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ",
-      "Twitter":"https://twitter.com/Jonathan_Blow"
-    }
-  },
-  {
-    "name":"Games With Go",
-    "twitch":"jackmott42",
-    "tags":[
-      "Game Development",
-      "Go",
-      "Teaching",
-      "Mac",
-      "Windows",
-      "Linux"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/jackmott42",
-      "Website":" https://gameswithgo.org/"
-    }
-  },
-  {
-    "name":"David",
-    "twitch":"genesis_tv_",
-    "tags":[
-      "C#"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/genesis_tv_"
-    }
-  },
-  {
-    "name":"56 Game Studios",
-    "twitch":"56gamestudios",
-    "tags":[
-      "Game Development",
-      "Unity"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/56gamestudios",
-      "Website":"http://56gamestudios.com/",
-      "Twitter":"https://twitter.com/56gamestudios",
-      "Instagram":"https://www.instagram.com/56gamestudios/"
-    }
-  },
-  {
-    "name":"Suz Hinton",
-    "twitch":"noopkat",
-    "tags":[
-      "IoT",
-      "Web Development",
-      "Hardware Hacking",
-      "3D Printing",
-      "Node.js",
-      "JavaScript"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/noopkat",
-      "Twitter":"https://twitter.com/noopkat",
-      "GitHub":"https://github.com/noopkat",
-      "Website":"http://noopkat.com/",
-      "Newsletter":"https://tinyletter.com/noopkat"
-    }
-  },
-  {
-    "name":"Feross Aboukhadijeh",
-    "twitch":"ferossity",
-    "tags":[
-      "JavaScript",
-      "Node.js",
-      "Frameworks",
-      "Developer Tooling",
-      "Web Development"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/ferossity",
-      "Twitter":"https://twitter.com/feross",
-      "GitHub":"https://github.com/feross",
-      "Website":"https://feross.org/",
-      "Patreon":"https://www.patreon.com/feross"
-    }
-  },
-  {
-    "name":"Thorsten Lorenz",
-    "twitch":"thlorenz",
-    "tags":[
-      "Node.js",
-      "Module Development",
-      "Developer Tooling",
-      "Web Development",
-      "JavaScript"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/thlorenz",
-      "Twitter":"https://twitter.com/thlorenz",
-      "GitHub":"https://github.com/thlorenz",
-      "Website":"http://thlorenz.com/",
-      "Patreon":"https://www.patreon.com/thlorenz"
-    }
-  },
-  {
-    "name":"Shirley Wu",
-    "twitch":"sxywu",
-    "tags":[
-      "Data Visualisation (DataViz)",
-      "JavaScript",
-      "React"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/sxywu",
-      "Twitter":"https://twitter.com/sxywu",
-      "Medium":"https://medium.com/@sxywu",
-      "YouTube":"https://www.youtube.com/user/sxywu",
-      "#ShirleyChats":"https://twitter.com/hashtag/ShirleyChats",
-      "Website":"http://sxywu.com/"
-    }
-  },
-  {
-    "name":"Sean Larkin",
-    "twitch":"thelarkinn",
-    "tags":[
-      "Webpack",
-      "OSS",
-      "JavaScript",
-      "Gaming"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/thelarkinn",
-      "Twitter":"https://twitter.com/TheLarkInn",
-      "GitHub":"https://github.com/TheLarkInn"
-    }
-  },
-  {
-    "name":"Kent C. Dodds",
-    "twitch":"kentcdodds",
-    "tags":[
-      "JavaScript",
-      "React",
-      "Web Development",
-      "Open Source",
-      "Node.js"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/kentcdodds",
-      "Twitter":"https://twitter.com/kentcdodds",
-      "GitHub":"https://github.com/kentcdodds",
-      "Website":"https://kentcdodds.com",
-      "Newsletter":"http://kcd.im/news",
-      "Blog":"https://blog.kentcdodds.com",
-      "YouTube":"https://www.youtube.com/c/kentcdodds-vids"
-    }
-  },
-  {
-    "name":"Kyle Shevlin",
-    "twitch":"kyleshevlin",
-    "tags":[
-      "React",
-      "JavaScript",
-      "Functional Programming",
-      "Web Development"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/kyleshevlin",
-      "Twitter":"https://twitter.com/kyleshevlin",
-      "GitHub":"https://github.com/kyleshevlin",
-      "Website":"https://kyleshevlin.com/"
-    }
-  },
-  {
-    "name":"Brian Clark",
-    "twitch":"clarkio",
-    "tags":[
-      "Node.js",
-      "JavaScript",
-      "IoT",
-      "Web Development",
-      "Swift"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/clarkio",
-      "Mixer":"https://mixer.com/clarkio",
-      "Twitter":"https://twitter.com/_clarkio",
-      "GitHub":"https://github.com/clarkio",
-      "YouTube":"https://www.youtube.com/channel/UCID02LhTNYYhWbok3zyggOw",
-      "Instagram":"https://www.instagram.com/_clarkio/",
-      "Website":"https://www.clarkio.com/"
-    }
-  },
-  {
-    "name":"Yosh",
-    "twitch":"yoshuawuyts",
-    "tags":[
-      "OSS maintenance",
-      "Tooling Development",
-      "JavaScript",
-      "Node.js",
-      "Choo"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/yoshuawuyts",
-      "Twitter":"https://twitter.com/yoshuawuyts",
-      "GitHub":"https://github.com/yoshuawuyts"
-    }
-  },
-  {
-    "name":"Micah Elizabeth Scott (scanlime)",
-    "twitch":"scanlime",
-    "tags":[
-      "Reverse Engineering",
-      "Rust",
-      "C++",
-      "Hardware"
-    ],
-    "links":{
-      "YouTube":"https://www.youtube.com/user/micahjd",
-      "Twitch":"https://twitch.tv/scanlime",
-      "Twitter":"https://twitter.com/scanlime",
-      "GitHub":"https://github.com/scanlime",
-      "Website":"http://scanlime.org",
-      "Patreon":"https://www.patreon.com/scanlime"
-    }
-  },
-  {
-    "name":"Russell Hay",
-    "twitch":"stainlessio",
-    "tags":[
-      "Rust",
-      "Functional Programming",
-      "Hardware",
-      "Generative Art"
-    ],
-    "links":{
-      "Twitch":"https://twitch.tv/stainlessio",
-      "Twitter":"https://twitter.com/pkstainless",
-      "GitHub":"https://github.com/RussTheAerialist",
-      "Website":"https://russellhay.com",
-      "Rust Blog":"https://stainless.io"
-    }
-  },
-  {
-    "name":"Collin Henderson",
-    "twitch":"syropian",
-    "tags":[
-      "JavaScript",
-      "PHP",
-      "Laravel",
-      "Vue.js"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/syropian",
-      "Twitter":"https://twitter.com/syropian",
-      "GitHub":"https://github.com/syropian",
-      "Website":"https://syropia.net/"
-    }
-  },
-  {
-    "name":"Tim Ermilov",
-    "twitch":"yamalight",
-    "tags":[
-      "OSS",
-      "building things with JavaScript",
-      "React"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/yamalight",
-      "YouTube":"https://www.youtube.com/c/TimErmilov",
-      "Twitter":"https://twitter.com/yamalight",
-      "Github":"https://github.com/yamalight",
-      "Medium":"https://medium.com/@yamalight"
-    }
-  },
-  {
-    "name":"Brendan Enrick (DevChatter)",
-    "twitch":"DevChatter",
-    "tags":[
-      "C#",
-      ".NET",
-      ".NET Core",
-      "ASP.NET",
-      "ASP.NET Core",
-      "Pair Programming"
-    ],
-    "links":{
-      "Twitch":"https://twitch.tv/devchatter",
-      "Twitter":"https://twitter.com/DevChatter_",
-      "GitHub":"https://github.com/DevChatter",
-      "YouTube":"https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA",
-      "Discord":"https://discord.gg/aQry9jG",
-      "Patreon":"https://www.patreon.com/DevChatter"
-    }
-  },
-  {
-    "name":"Nicholas Brochu",
-    "twitch":"serpent_ai",
-    "tags":[
-      "Python",
-      "Serpent.AI Framework Dev",
-      "Machine Learning",
-      "AI",
-      "Computer Vision"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/serpent_ai",
-      "Twitter":"https://twitter.com/Serpent_AI",
-      "GitHub":"https://github.com/nbrochu",
-      "Website":"http://serpent.ai",
-      "Blog":"http://blog.serpent.ai",
-      "YouTube":"https://www.youtube.com/c/SerpentAI",
-      "Discord":"https://discord.gg/9D5SuxH",
-      "Patreon":"https://www.patreon.com/serpent_ai"
-    }
-  },
-  {
-    "name":"Tierney Cyren",
-    "twitch":"bitandbang",
-    "tags":[
-      "Node.js",
-      "Node.js Community Committee",
-      "JavaScript",
-      "Maintaining OSS Projects"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/bitandbang",
-      "Twitter":"https://twitter.com/bitandbang",
-      "GitHub":"https://github.com/bnb",
-      "Instagram":"https://instagram.com/bitandbang",
-      "Website":"https://bnb.im/"
-    }
-  },
-  {
-    "name":"Erik Guzman",
-    "twitch":"talk2megooseman",
-    "tags":[
-      "JavaScript",
-      "Node.js",
-      "ReactJS",
-      "React Native",
-      "APIs",
-      "Web Development"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/talk2megooseman",
-      "Twitter":"https://twitter.com/talk2megooseman",
-      "GitHub":"https://github.com/talk2megooseman",
-      "Discord":"https://discord.gg/j86Rmva"
-    }
-  },
-  {
-    "name":"Gary Kramlich",
-    "twitch":"rw_grim",
-    "tags":[
-      "Pidgin Development",
-      "Convey Development",
-      "Open Source Development",
-      "C",
-      "Golang",
-      "Python",
-      "JavaScript",
-      "Docker",
-      "Containers"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/rw_grim",
-      "Twitter":"https://twitter.com/rw_grim",
-      "BitBucket":"https://bitbucket.org/rw_grim",
-      "GitHub":"https://github.com/grimmy",
-      "Website":"https://www.reaperworld.com",
-      "Blog":"https://garykramlich.blogspot.com/",
-      "YouTube":"https://www.youtube.com/garykramlich",
-      "Discord":"https://discord.gg/gqWBRDW",
-      "Patreon":"https://www.patreon.com/rw_grim",
-      "Pidgin":"https://www.pidgin.im",
-      "Convey":"https://bitbucket.org/rw_grim/convey"
-    }
-  },
-  {
-    "name":"Thomas Soerensen",
-    "twitch":"thomasbs_",
-    "tags":[
-      "Golang",
-      "PHP (Laravel)",
-      "JavaScript"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/thomasbs_",
-      "Twitter":"https://twitter.com/DOMAS_89",
-      "GitHub":"https://github.com/ThomasBS",
-      "Website":"https://www.thomasbs.com"
-    }
-  },
-  {
-    "name":"Pavithra Kodmad",
-    "twitch":"pavithrakodmad",
-    "tags":[
-      "JavaScript",
-      "CSS",
-      "Open Source Stuff"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/pavithrakodmad",
-      "Website":"http://pavithrakodmad.com",
-      "Twitter":"https://twitter.com/PKodmad",
-      "GitHub":"https://github.com/pksjce"
-    }
-  },
-  {
-    "name":"HardlyDifficult",
-    "twitch":"hardlydifficult",
-    "tags":[
-      "Game Development (Unity3D)",
-      "C#",
-      "C# Programming",
-      "Cryptocurrency"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/hardlydifficult",
-      "Twitter":"http://twitter.com/HardlyDifficult",
-      "GitHub":"https://github.com/hardlydifficult",
-      "Website":"http://hardlydifficult.com/",
-      "Youtube":"http://youtube.com/HardlyDifficult"
-    }
-  },
-  {
-    "name":"RadicalFishGames",
-    "twitch":"radicalfishgames",
-    "tags":[
-      "Game Development (JavaScript",
-      "WebGL) (Game: CrossCode)"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/radicalfishgames",
-      "Twitter":"https://twitter.com/RadicalFishGame",
-      "Website":"http://www.radicalfishgames.com/",
-      "Youtube":"https://www.youtube.com/user/RadicalFishGames"
-    }
-  },
-  {
-    "name":"Casey Muratori",
-    "twitch":"handmade_hero",
-    "tags":[
-      "C",
-      "C++",
-      "Game Development",
-      "Algorithms"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/handmade_hero",
-      "YouTube":"https://www.youtube.com/HandmadeHero",
-      "Twitter":"https://twitter.com/cmuratori",
-      "Website":"https://handmadehero.org/"
-    }
-  },
-  {
-    "name":"Ferris",
-    "twitch":"ferrisstreamsstuff",
-    "tags":[
-      "Emulator Development",
-      "Demoscene Tools",
-      "Hardware Hacking",
-      "Rust",
-      "C",
-      "C++"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/ferrisstreamsstuff",
-      "Twitter":"https://twitter.com/ferristweetsnow",
-      "GitHub":"https://github.com/yupferris",
-      "Website":"http://iamferris.com/",
-      "Youtube":"https://www.youtube.com/channel/UC4mpLlHn0FOekNg05yCnkzQ",
-      "Pouet":"http://www.pouet.net/user.php?who=16820",
-      "Patreon":"https://www.patreon.com/ferrisstreamsstuff"
-    }
-  },
-  {
-    "name":"Jeff Fritz",
-    "twitch":"csharpfritz",
-    "tags":[
-      "C#",
-      ".NET",
-      "ASP.NET",
-      "OSS and Pair Programming"
-    ],
-    "links":{
-      "Twitch":"https://twitch.tv/csharpfritz",
-      "Mixer":"https://mixer.com/csharpfritz",
-      "Twitter":"https://twitter.com/csharpfritz",
-      "GitHub":"https://github.com/csharpfritz",
-      "Website":"http://jeffreyfritz.com/",
-      "YouTube":"https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ"
-    }
-  },
-  {
-    "name":"Jessica Mak",
-    "twitch":"jessicamak",
-    "tags":[
-      "C++",
-      "OpenGL",
-      "Game Development"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/jessicamak",
-      "Twitter":"https://twitter.com/mango_lychee",
-      "Discord":"https://discord.gg/AxR74yp",
-      "Donations":"https://streamlabs.com/jessicamak"
-    }
-  },
-  {
-    "name":"Swizec Teller",
-    "twitch":"swizec",
-    "tags":[
-      "JavaScript",
-      "React",
-      "D3"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/swizec",
-      "Youtube":"https://www.youtube.com/user/TheSwizec",
-      "Twitter":"https://twitter.com/swizec",
-      "GitHub":"https://github.com/Swizec",
-      "Website":"https://swizec.com/"
-    }
-  },
-  {
-    "name":"Sergio Cinos",
-    "twitch":"scinos",
-    "tags":[
-      "Node.js",
-      "React",
-      "MobX",
-      "Docker",
-      "DevOps",
-      "Full Stack Development"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/scinos",
-      "Twitter":"https://twitter.com/scinos",
-      "GitHub":"https://github.com/scinos/",
-      "Website":"https://www.youtube.com/channel/UCWWgBvd400EdnUF791ZjSeg"
-    }
-  },
-  {
-    "name":"Ragnar Thor",
-    "twitch":"rthor",
-    "tags":[
-      "JavaScript",
-      "React",
-      "Web Development",
-      "Open Source",
-      "Node.js"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/rthor",
-      "Twitter":"https://twitter.com/rthor",
-      "GitHub":"https://github.com/rthor"
-    }
-  },
-  {
-    "name":"Alexander Simovic",
-    "twitch":"simalexan",
-    "tags":[
-      "Serverless",
-      "Node.js",
-      "JavaScript",
-      "Claudia.js",
-      "Chat bots",
-      "Web Development",
-      "OSS"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/simalexan",
-      "Twitter":"https://twitter.com/simalexan",
-      "GitHub":"https://github.com/simalexan",
-      "Website":"https://effortless-serverless.com",
-      "Medium":"https://medium.com/@simalexan"
-    }
-  },
-  {
-    "name":"Adam13531",
-    "twitch":"adam13531",
-    "tags":[
-      "Node.js",
-      "JavaScript",
-      "React",
-      "PixiJS",
-      "Full Stack Development",
-      "Game Development"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/adam13531",
-      "Discord":"https://discord.gg/botland",
-      "Twitter":"https://twitter.com/Xtonomous",
-      "YouTube":"https://www.youtube.com/channel/UCJFxRNHar-c_lKYxFMIPg_g",
-      "Website":"https://bot.land",
-      "Blog":"https://blog.bot.land"
-    }
-  },
-  {
-    "name":"Josh Hawkins",
-    "twitch":"hawkinjs",
-    "tags":[
-      "JavaScript",
-      "Node.js",
-      "Rust",
-      "Python",
-      "OSS Projects",
-      "Gaming"
-    ],
-    "links":{
-      "Twitch":"https://twitch.tv/hawkinjs",
-      "Twitter":"https://twitter.com/hawkinjs",
-      "GitHub":"https://github.com/hawkins",
-      "Website":"https://hawkins.is"
-    }
-  },
-  {
-    "name":"Antonio Maiorano",
-    "twitch":"daroou2",
-    "tags":[
-      "Emulator Development",
-      "C++"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/daroou2",
-      "Twitter":"https://twitter.com/antoniomaiorano",
-      "GitHub":"https://github.com/amaiorano",
-      "YouTube":"https://www.youtube.com/channel/UCvGInSOEQnf2ms4n4Q9dXdQ",
-      "LinkedIn":"https://www.linkedin.com/in/amaiorano/"
-    }
-  },
-  {
-    "name":"Erik Rydeman",
-    "twitch":"doborog",
-    "tags":[
-      "Game Development",
-      "C#",
-      "Unity"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/doborog",
-      "Twitter":"https://twitter.com/iamdoborog",
-      "Website":"https://doborog.com"
-    }
-  },
-  {
-    "name":"DrunkDevs",
-    "twitch":"drunkdevs",
-    "tags":[
-      "Game Development",
-      "Game Maker: Studio",
-      "Aseprite"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/drunkdevs",
-      "Twitter":"https://twitter.com/drunkdevs",
-      "Game Jolt":"https://gamejolt.com/@Ink/games",
-      "Facebook":"www.facebook.com/DrunkDevs",
-      "Website":"http://www.drunkdevs.com/"
-    }
-  },
-  {
-    "name":"Syanoks",
-    "twitch":"syanoks",
-    "tags":[
-      "Operating System Development",
-      "C",
-      "Assembly",
-      "Shell",
-      "Python"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/syanoks",
-      "Blog":"https://www.sceen.net/blog/"
-    }
-  },
-  {
-    "name":"DevWars",
-    "twitch":"devwars",
-    "tags":[
-      "Web Development",
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "SASS",
-      "Compete",
-      "Competition",
-      "Fight"
-    ],
-    "links":{
-      "github":"https://github.com/devwars/devwars.tv",
-      "website":"https://devwars.tv",
-      "twitter":"https://twitter.com/devwarstv",
-      "facebook":"https://www.facebook.com/DevWars/"
-    }
-  },
-  {
-    "name":"Andrew Bereza",
-    "twitch":"bereza",
-    "tags":[
-      "Game Development",
-      "Lua"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/bereza",
-      "Twitter":"https://twitter.com/berezaagames"
-    }
-  },
-  {
-    "name":"Greg Dizzia",
-    "twitch":"omatum_greg",
-    "tags":[
+		}
+	},
+	{
+		"name": "Jonathan Blow",
+		"twitch": "naysayer88",
+		"tags": [
+			"Game Development",
+			"Language Development"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/naysayer88",
+			"YouTube": "https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ",
+			"Twitter": "https://twitter.com/Jonathan_Blow"
+		}
+	},
+	{
+		"name": "Games With Go",
+		"twitch": "jackmott42",
+		"tags": [
+			"Game Development",
+			"Go",
+			"Teaching",
+			"Mac",
+			"Windows",
+			"Linux"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/jackmott42",
+			"Website": " https://gameswithgo.org/"
+		}
+	},
+	{
+		"name": "David",
+		"twitch": "genesis_tv_",
+		"tags": [
+			"C#"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/genesis_tv_"
+		}
+	},
+	{
+		"name": "56 Game Studios",
+		"twitch": "56gamestudios",
+		"tags": [
+			"Game Development",
+			"Unity"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/56gamestudios",
+			"Website": "http://56gamestudios.com/",
+			"Twitter": "https://twitter.com/56gamestudios",
+			"Instagram": "https://www.instagram.com/56gamestudios/"
+		}
+	},
+	{
+		"name": "Suz Hinton",
+		"twitch": "noopkat",
+		"tags": [
+			"IoT",
+			"Web Development",
+			"Hardware Hacking",
+			"3D Printing",
+			"Node.js",
+			"JavaScript"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/noopkat",
+			"Twitter": "https://twitter.com/noopkat",
+			"GitHub": "https://github.com/noopkat",
+			"Website": "http://noopkat.com/",
+			"Newsletter": "https://tinyletter.com/noopkat"
+		}
+	},
+	{
+		"name": "Feross Aboukhadijeh",
+		"twitch": "ferossity",
+		"tags": [
+			"JavaScript",
+			"Node.js",
+			"Frameworks",
+			"Developer Tooling",
+			"Web Development"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/ferossity",
+			"Twitter": "https://twitter.com/feross",
+			"GitHub": "https://github.com/feross",
+			"Website": "https://feross.org/",
+			"Patreon": "https://www.patreon.com/feross"
+		}
+	},
+	{
+		"name": "Thorsten Lorenz",
+		"twitch": "thlorenz",
+		"tags": [
+			"Node.js",
+			"Module Development",
+			"Developer Tooling",
+			"Web Development",
+			"JavaScript"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/thlorenz",
+			"Twitter": "https://twitter.com/thlorenz",
+			"GitHub": "https://github.com/thlorenz",
+			"Website": "http://thlorenz.com/",
+			"Patreon": "https://www.patreon.com/thlorenz"
+		}
+	},
+	{
+		"name": "Shirley Wu",
+		"twitch": "sxywu",
+		"tags": [
+			"Data Visualisation (DataViz)",
+			"JavaScript",
+			"React"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/sxywu",
+			"Twitter": "https://twitter.com/sxywu",
+			"Medium": "https://medium.com/@sxywu",
+			"YouTube": "https://www.youtube.com/user/sxywu",
+			"#ShirleyChats": "https://twitter.com/hashtag/ShirleyChats",
+			"Website": "http://sxywu.com/"
+		}
+	},
+	{
+		"name": "Sean Larkin",
+		"twitch": "thelarkinn",
+		"tags": [
+			"Webpack",
+			"OSS",
+			"JavaScript",
+			"Gaming"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/thelarkinn",
+			"Twitter": "https://twitter.com/TheLarkInn",
+			"GitHub": "https://github.com/TheLarkInn"
+		}
+	},
+	{
+		"name": "Kent C. Dodds",
+		"twitch": "kentcdodds",
+		"tags": [
+			"JavaScript",
+			"React",
+			"Web Development",
+			"Open Source",
+			"Node.js"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/kentcdodds",
+			"Twitter": "https://twitter.com/kentcdodds",
+			"GitHub": "https://github.com/kentcdodds",
+			"Website": "https://kentcdodds.com",
+			"Newsletter": "http://kcd.im/news",
+			"Blog": "https://blog.kentcdodds.com",
+			"YouTube": "https://www.youtube.com/c/kentcdodds-vids"
+		}
+	},
+	{
+		"name": "Kyle Shevlin",
+		"twitch": "kyleshevlin",
+		"tags": [
+			"React",
+			"JavaScript",
+			"Functional Programming",
+			"Web Development"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/kyleshevlin",
+			"Twitter": "https://twitter.com/kyleshevlin",
+			"GitHub": "https://github.com/kyleshevlin",
+			"Website": "https://kyleshevlin.com/"
+		}
+	},
+	{
+		"name": "Brian Clark",
+		"twitch": "clarkio",
+		"tags": [
+			"Node.js",
+			"JavaScript",
+			"IoT",
+			"Web Development",
+			"Swift"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/clarkio",
+			"Mixer": "https://mixer.com/clarkio",
+			"Twitter": "https://twitter.com/_clarkio",
+			"GitHub": "https://github.com/clarkio",
+			"YouTube": "https://www.youtube.com/channel/UCID02LhTNYYhWbok3zyggOw",
+			"Instagram": "https://www.instagram.com/_clarkio/",
+			"Website": "https://www.clarkio.com/"
+		}
+	},
+	{
+		"name": "Yosh",
+		"twitch": "yoshuawuyts",
+		"tags": [
+			"OSS maintenance",
+			"Tooling Development",
+			"JavaScript",
+			"Node.js",
+			"Choo"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/yoshuawuyts",
+			"Twitter": "https://twitter.com/yoshuawuyts",
+			"GitHub": "https://github.com/yoshuawuyts"
+		}
+	},
+	{
+		"name": "Micah Elizabeth Scott (scanlime)",
+		"twitch": "scanlime",
+		"tags": [
+			"Reverse Engineering",
+			"Rust",
+			"C++",
+			"Hardware"
+		],
+		"links": {
+			"YouTube": "https://www.youtube.com/user/micahjd",
+			"Twitch": "https://twitch.tv/scanlime",
+			"Twitter": "https://twitter.com/scanlime",
+			"GitHub": "https://github.com/scanlime",
+			"Website": "http://scanlime.org",
+			"Patreon": "https://www.patreon.com/scanlime"
+		}
+	},
+	{
+		"name": "Russell Hay",
+		"twitch": "stainlessio",
+		"tags": [
+			"Rust",
+			"Functional Programming",
+			"Hardware",
+			"Generative Art"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/stainlessio",
+			"Twitter": "https://twitter.com/pkstainless",
+			"GitHub": "https://github.com/RussTheAerialist",
+			"Website": "https://russellhay.com",
+			"Rust Blog": "https://stainless.io"
+		}
+	},
+	{
+		"name": "Collin Henderson",
+		"twitch": "syropian",
+		"tags": [
+			"JavaScript",
+			"PHP",
+			"Laravel",
+			"Vue.js"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/syropian",
+			"Twitter": "https://twitter.com/syropian",
+			"GitHub": "https://github.com/syropian",
+			"Website": "https://syropia.net/"
+		}
+	},
+	{
+		"name": "Tim Ermilov",
+		"twitch": "yamalight",
+		"tags": [
+			"OSS",
+			"building things with JavaScript",
+			"React"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/yamalight",
+			"YouTube": "https://www.youtube.com/c/TimErmilov",
+			"Twitter": "https://twitter.com/yamalight",
+			"Github": "https://github.com/yamalight",
+			"Medium": "https://medium.com/@yamalight"
+		}
+	},
+	{
+		"name": "Brendan Enrick (DevChatter)",
+		"twitch": "DevChatter",
+		"tags": [
+			"C#",
+			".NET",
+			".NET Core",
+			"ASP.NET",
+			"ASP.NET Core",
+			"Pair Programming"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/devchatter",
+			"Twitter": "https://twitter.com/DevChatter_",
+			"GitHub": "https://github.com/DevChatter",
+			"YouTube": "https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA",
+			"Discord": "https://discord.gg/aQry9jG",
+			"Patreon": "https://www.patreon.com/DevChatter"
+		}
+	},
+	{
+		"name": "Nicholas Brochu",
+		"twitch": "serpent_ai",
+		"tags": [
+			"Python",
+			"Serpent.AI Framework Dev",
+			"Machine Learning",
+			"AI",
+			"Computer Vision"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/serpent_ai",
+			"Twitter": "https://twitter.com/Serpent_AI",
+			"GitHub": "https://github.com/nbrochu",
+			"Website": "http://serpent.ai",
+			"Blog": "http://blog.serpent.ai",
+			"YouTube": "https://www.youtube.com/c/SerpentAI",
+			"Discord": "https://discord.gg/9D5SuxH",
+			"Patreon": "https://www.patreon.com/serpent_ai"
+		}
+	},
+	{
+		"name": "Tierney Cyren",
+		"twitch": "bitandbang",
+		"tags": [
+			"Node.js",
+			"Node.js Community Committee",
+			"JavaScript",
+			"Maintaining OSS Projects"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/bitandbang",
+			"Twitter": "https://twitter.com/bitandbang",
+			"GitHub": "https://github.com/bnb",
+			"Instagram": "https://instagram.com/bitandbang",
+			"Website": "https://bnb.im/"
+		}
+	},
+	{
+		"name": "Erik Guzman",
+		"twitch": "talk2megooseman",
+		"tags": [
+			"JavaScript",
+			"Node.js",
+			"ReactJS",
+			"React Native",
+			"APIs",
+			"Web Development"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/talk2megooseman",
+			"Twitter": "https://twitter.com/talk2megooseman",
+			"GitHub": "https://github.com/talk2megooseman",
+			"Discord": "https://discord.gg/j86Rmva"
+		}
+	},
+	{
+		"name": "Gary Kramlich",
+		"twitch": "rw_grim",
+		"tags": [
+			"Pidgin Development",
+			"Convey Development",
+			"Open Source Development",
+			"C",
+			"Golang",
+			"Python",
+			"JavaScript",
+			"Docker",
+			"Containers"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/rw_grim",
+			"Twitter": "https://twitter.com/rw_grim",
+			"BitBucket": "https://bitbucket.org/rw_grim",
+			"GitHub": "https://github.com/grimmy",
+			"Website": "https://www.reaperworld.com",
+			"Blog": "https://garykramlich.blogspot.com/",
+			"YouTube": "https://www.youtube.com/garykramlich",
+			"Discord": "https://discord.gg/gqWBRDW",
+			"Patreon": "https://www.patreon.com/rw_grim",
+			"Pidgin": "https://www.pidgin.im",
+			"Convey": "https://bitbucket.org/rw_grim/convey"
+		}
+	},
+	{
+		"name": "Thomas Soerensen",
+		"twitch": "thomasbs_",
+		"tags": [
+			"Golang",
+			"PHP (Laravel)",
+			"JavaScript"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/thomasbs_",
+			"Twitter": "https://twitter.com/DOMAS_89",
+			"GitHub": "https://github.com/ThomasBS",
+			"Website": "https://www.thomasbs.com"
+		}
+	},
+	{
+		"name": "Pavithra Kodmad",
+		"twitch": "pavithrakodmad",
+		"tags": [
+			"JavaScript",
+			"CSS",
+			"Open Source Stuff"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/pavithrakodmad",
+			"Website": "http://pavithrakodmad.com",
+			"Twitter": "https://twitter.com/PKodmad",
+			"GitHub": "https://github.com/pksjce"
+		}
+	},
+	{
+		"name": "HardlyDifficult",
+		"twitch": "hardlydifficult",
+		"tags": [
+			"Game Development (Unity3D)",
+			"C#",
+			"C# Programming",
+			"Cryptocurrency"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/hardlydifficult",
+			"Twitter": "http://twitter.com/HardlyDifficult",
+			"GitHub": "https://github.com/hardlydifficult",
+			"Website": "http://hardlydifficult.com/",
+			"Youtube": "http://youtube.com/HardlyDifficult"
+		}
+	},
+	{
+		"name": "RadicalFishGames",
+		"twitch": "radicalfishgames",
+		"tags": [
+			"Game Development (JavaScript",
+			"WebGL) (Game: CrossCode)"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/radicalfishgames",
+			"Twitter": "https://twitter.com/RadicalFishGame",
+			"Website": "http://www.radicalfishgames.com/",
+			"Youtube": "https://www.youtube.com/user/RadicalFishGames"
+		}
+	},
+	{
+		"name": "Casey Muratori",
+		"twitch": "handmade_hero",
+		"tags": [
+			"C",
+			"C++",
+			"Game Development",
+			"Algorithms"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/handmade_hero",
+			"YouTube": "https://www.youtube.com/HandmadeHero",
+			"Twitter": "https://twitter.com/cmuratori",
+			"Website": "https://handmadehero.org/"
+		}
+	},
+	{
+		"name": "Ferris",
+		"twitch": "ferrisstreamsstuff",
+		"tags": [
+			"Emulator Development",
+			"Demoscene Tools",
+			"Hardware Hacking",
+			"Rust",
+			"C",
+			"C++"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/ferrisstreamsstuff",
+			"Twitter": "https://twitter.com/ferristweetsnow",
+			"GitHub": "https://github.com/yupferris",
+			"Website": "http://iamferris.com/",
+			"Youtube": "https://www.youtube.com/channel/UC4mpLlHn0FOekNg05yCnkzQ",
+			"Pouet": "http://www.pouet.net/user.php?who=16820",
+			"Patreon": "https://www.patreon.com/ferrisstreamsstuff"
+		}
+	},
+	{
+		"name": "Jeff Fritz",
+		"twitch": "csharpfritz",
+		"tags": [
+			"C#",
+			".NET",
+			"ASP.NET",
+			"OSS and Pair Programming"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/csharpfritz",
+			"Mixer": "https://mixer.com/csharpfritz",
+			"Twitter": "https://twitter.com/csharpfritz",
+			"GitHub": "https://github.com/csharpfritz",
+			"Website": "http://jeffreyfritz.com/",
+			"YouTube": "https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ"
+		}
+	},
+	{
+		"name": "Jessica Mak",
+		"twitch": "jessicamak",
+		"tags": [
+			"C++",
+			"OpenGL",
+			"Game Development"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/jessicamak",
+			"Twitter": "https://twitter.com/mango_lychee",
+			"Discord": "https://discord.gg/AxR74yp",
+			"Donations": "https://streamlabs.com/jessicamak"
+		}
+	},
+	{
+		"name": "Swizec Teller",
+		"twitch": "swizec",
+		"tags": [
+			"JavaScript",
+			"React",
+			"D3"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/swizec",
+			"Youtube": "https://www.youtube.com/user/TheSwizec",
+			"Twitter": "https://twitter.com/swizec",
+			"GitHub": "https://github.com/Swizec",
+			"Website": "https://swizec.com/"
+		}
+	},
+	{
+		"name": "Sergio Cinos",
+		"twitch": "scinos",
+		"tags": [
+			"Node.js",
+			"React",
+			"MobX",
+			"Docker",
+			"DevOps",
+			"Full Stack Development"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/scinos",
+			"Twitter": "https://twitter.com/scinos",
+			"GitHub": "https://github.com/scinos/",
+			"Website": "https://www.youtube.com/channel/UCWWgBvd400EdnUF791ZjSeg"
+		}
+	},
+	{
+		"name": "Ragnar Thor",
+		"twitch": "rthor",
+		"tags": [
+			"JavaScript",
+			"React",
+			"Web Development",
+			"Open Source",
+			"Node.js"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/rthor",
+			"Twitter": "https://twitter.com/rthor",
+			"GitHub": "https://github.com/rthor"
+		}
+	},
+	{
+		"name": "Alexander Simovic",
+		"twitch": "simalexan",
+		"tags": [
+			"Serverless",
+			"Node.js",
+			"JavaScript",
+			"Claudia.js",
+			"Chat bots",
+			"Web Development",
+			"OSS"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/simalexan",
+			"Twitter": "https://twitter.com/simalexan",
+			"GitHub": "https://github.com/simalexan",
+			"Website": "https://effortless-serverless.com",
+			"Medium": "https://medium.com/@simalexan"
+		}
+	},
+	{
+		"name": "Adam13531",
+		"twitch": "adam13531",
+		"tags": [
+			"Node.js",
+			"JavaScript",
+			"React",
+			"PixiJS",
+			"Full Stack Development",
+			"Game Development"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/adam13531",
+			"Discord": "https://discord.gg/botland",
+			"Twitter": "https://twitter.com/Xtonomous",
+			"YouTube": "https://www.youtube.com/channel/UCJFxRNHar-c_lKYxFMIPg_g",
+			"Website": "https://bot.land",
+			"Blog": "https://blog.bot.land"
+		}
+	},
+	{
+		"name": "Josh Hawkins",
+		"twitch": "hawkinjs",
+		"tags": [
+			"JavaScript",
+			"Node.js",
+			"Rust",
+			"Python",
+			"OSS Projects",
+			"Gaming"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/hawkinjs",
+			"Twitter": "https://twitter.com/hawkinjs",
+			"GitHub": "https://github.com/hawkins",
+			"Website": "https://hawkins.is"
+		}
+	},
+	{
+		"name": "Antonio Maiorano",
+		"twitch": "daroou2",
+		"tags": [
+			"Emulator Development",
+			"C++"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/daroou2",
+			"Twitter": "https://twitter.com/antoniomaiorano",
+			"GitHub": "https://github.com/amaiorano",
+			"YouTube": "https://www.youtube.com/channel/UCvGInSOEQnf2ms4n4Q9dXdQ",
+			"LinkedIn": "https://www.linkedin.com/in/amaiorano/"
+		}
+	},
+	{
+		"name": "Erik Rydeman",
+		"twitch": "doborog",
+		"tags": [
+			"Game Development",
+			"C#",
+			"Unity"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/doborog",
+			"Twitter": "https://twitter.com/iamdoborog",
+			"Website": "https://doborog.com"
+		}
+	},
+	{
+		"name": "DrunkDevs",
+		"twitch": "drunkdevs",
+		"tags": [
+			"Game Development",
+			"Game Maker: Studio",
+			"Aseprite"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/drunkdevs",
+			"Twitter": "https://twitter.com/drunkdevs",
+			"Game Jolt": "https://gamejolt.com/@Ink/games",
+			"Facebook": "www.facebook.com/DrunkDevs",
+			"Website": "http://www.drunkdevs.com/"
+		}
+	},
+	{
+		"name": "Syanoks",
+		"twitch": "syanoks",
+		"tags": [
+			"Operating System Development",
+			"C",
+			"Assembly",
+			"Shell",
+			"Python"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/syanoks",
+			"Blog": "https://www.sceen.net/blog/"
+		}
+	},
+	{
+		"name": "DevWars",
+		"twitch": "devwars",
+		"tags": [
+			"Web Development",
+			"JavaScript",
+			"HTML",
+			"CSS",
+			"SASS",
+			"Compete",
+			"Competition",
+			"Fight"
+		],
+		"links": {
+			"github": "https://github.com/devwars/devwars.tv",
+			"website": "https://devwars.tv",
+			"twitter": "https://twitter.com/devwarstv",
+			"facebook": "https://www.facebook.com/DevWars/"
+		}
+	},
+	{
+		"name": "Andrew Bereza",
+		"twitch": "bereza",
+		"tags": [
+			"Game Development",
+			"Lua"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/bereza",
+			"Twitter": "https://twitter.com/berezaagames"
+		}
+	},
+	{
+		"name": "Greg Dizzia",
+		"twitch": "omatum_greg",
+		"tags": [
 
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/omatum_greg",
-      "Omatum":"https://www.omatum.com/"
-    }
-  },
-  {
-    "name":"Phanxgames",
-    "twitch":"phanxgames",
-    "tags":[
-      "Game Development",
-      "JavaScript",
-      "Vue.js",
-      "Node.js",
-      "Electron"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/phanxgames",
-      "Twitter":"https://twitter.com/phanxgames"
-    }
-  },
-  {
-    "name":"wildn00b",
-    "twitch":"wildn00b",
-    "tags":[
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/omatum_greg",
+			"Omatum": "https://www.omatum.com/"
+		}
+	},
+	{
+		"name": "Phanxgames",
+		"twitch": "phanxgames",
+		"tags": [
+			"Game Development",
+			"JavaScript",
+			"Vue.js",
+			"Node.js",
+			"Electron"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/phanxgames",
+			"Twitter": "https://twitter.com/phanxgames"
+		}
+	},
+	{
+		"name": "wildn00b",
+		"twitch": "wildn00b",
+		"tags": [
 
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/wildn00b",
-      "GitHub":"https://github.com/Vild/"
-    }
-  },
-  {
-    "name":"sirmre",
-    "twitch":"sirmre",
-    "tags":[
-      "Node.js",
-      "React",
-      "JavaScript"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/sirmre"
-    }
-  },
-  {
-    "name":"Joel Purra",
-    "twitch":"joelpurra",
-    "tags":[
-      "Node.js",
-      "Typescript",
-      "JavaScript"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/joelpurra",
-      "GitHub":"https://github.com/joelpurra",
-      "Twitter":"https://twitter.com/joelpurra"
-    }
-  },
-  {
-    "name":"David Joffe",
-    "twitch":"david_joffe",
-    "tags":[
-      "C++",
-      "PHP",
-      "2D",
-      "Game Development",
-      "Platform shooter",
-      "Applications",
-      "Web Development",
-      "wxWidgets",
-      "Languages",
-      "Unicode",
-      "Localization",
-      "Terminology",
-      "Lexicography",
-      "Dictionaries",
-      "Photoshop",
-      "Art",
-      "Open Source",
-      "Visual Studio",
-      "LibSDL",
-      "Linux",
-      "Cross-platform",
-      "Retro"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/david_joffe",
-      "YouTube":"https://www.youtube.com/channel/UC6FDv1AsC7Ozwl5DxnkpqPA",
-      "Periscope":"https://www.pscp.tv/DavidJoffe",
-      "Mixer":"https://mixer.com/gnukem111",
-      "GitHub":"http://github.com/davidjoffe",
-      "LiveEdu":"https://www.liveedu.tv/david_joffe/",
-      "website":"http://djoffe.com/",
-      "Instagram":"https://www.instagram.com/joffe.david/",
-      "Twitter":"https://twitter.com/d_joffe",
-      "LinkedIn":"https://www.linkedin.com/in/david-joffe-50771b4",
-      "Facebook":"https://www.facebook.com/david.joffe.art/"
-    }
-  },
-  {
-    "name":"5upercircuits",
-    "twitch":"5upercircuits",
-    "tags":[
-      "Embedded",
-      "Electronics",
-      "ARM",
-      "C",
-      "C++"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/5upercircuits",
-      "Website":"http://5upercircuits.com/",
-      "Twitter":"https://twitter.com/5uperCircuits",
-      "Facebook":"https://www.facebook.com/5uperCircuits/"
-    }
-  },
-  {
-    "name":"Calvin Allen",
-    "twitch":"codebytes_tv",
-    "tags":[
-      "C#",
-      ".NET",
-      ".NET Core",
-      "ASP.NET",
-      "ASP.NET Core",
-      "Alexa",
-      "Typescript",
-      "JavaScript"
-    ],
-    "links":{
-      "Twitch":"https://twitch.tv/codebytes_tv",
-      "Twitter":"https://twitter.com/codebytes_tv",
-      "GitHub":"https://github.com/CodeBytesTV",
-      "YouTube":"https://www.youtube.com/channel/UCeyV-rDg85evpxiZ28NlI0Q"
-    }
-  },
-  {
-    "name":"Jamie Taylor",
-    "twitch":"gaprogman",
-    "tags":[
-      "C#",
-      ".NET",
-      ".NET Core",
-      "Web Development",
-      "Software Development"
-    ],
-    "links":{
-      "Twitch":"https://www.twitch.tv/gaprogman",
-      "Twitter":"https://twitter.com/dotnetcoreblog",
-      "Website":"https://dotnetcore.gaprogman.com",
-      "Github":"https://github.com/gaprogman",
-      "LinkedIn":"https://www.linkedin.com/in/jamie-taylor-57602959/",
-      "Youtube":"https://www.youtube.com/channel/UCTDz8IxVCKPmhLemR9eOLPQ"
-    }
-  },
-  {
-    "name":"Nicolás Marulanda P.",
-    "twitch":"nmarulo",
-    "tags":[
-      "Web Development",
-      "JAVA",
-      "PHP",
-      "C#",
-      "JavaScript",
-      "MySQL",
-      "Bootstrap CSS"
-    ],
-    "links":{
-      "Github":"https://github.com/nmarulo",
-      "Website":"http://softn.red",
-      "Twitter":"https://twitter.com/nmarulo",
-      "Twitch":"https://www.twitch.tv/nmarulo"
-    }
-  },
-  {
-    "name":"Jen Tong",
-    "twitch":"mimmingcodes",
-    "tags":[
-      "STEM",
-      "Programming",
-      "Python",
-      "NodeJS",
-      "Hexo",
-      "Firebase",
-      "IoT"
-    ],
-    "links":{
-      "Github":"https://github.com/mimming",
-      "Website":"https://mimming.com",
-      "Twitter":"https://twitter.com/MimmingCodes",
-      "Twitch":"https://www.twitch.tv/mimmingcodes"
-    }
-  },
-  {
-    "name":"Per Vognsen",
-    "twitch":"pervognsen",
-    "tags":[
-      "FPGA",
-      "C",
-      "C++",
-      "Python",
-      "Operating System Development",
-      "Systems Applications",
-      "Kernel Programming",
-      "Hardware"
-    ],
-    "links":{
-      "Github":"https://github.com/pervognsen/bitwise",
-      "Discord":"https://discordapp.com/invite/7TSA6ZF",
-      "Twitter":"https://twitter.com/pervognsen",
-      "Twitch":"https://www.twitch.tv/pervognsen",
-      "Youtube":"https://youtube.com/c/pervognsen"
-    }
-  },
-  {
-    "name":"Dan Jasnowski",
-    "twitch":"danjasnowski",
-    "tags":[
-      "Web Development",
-      "Node.js",
-      "Game Development",
-      "JavaScript",
-      "Vue.js",
-      "PHP",
-      "Laravel"
-    ],
-    "links":{
-      "GitHub":"https://github.com/naknode",
-      "Twitter":"https://twitter.com/danjasnowski",
-      "Twitch":"https://www.twitch.tv/danjasnowski",
-      "LinkedIn":"https://www.linkedin.com/in/danjp/"
-    }
-  },
-  {
-    "name":"Vania Kucher",
-    "twitch":"devkucher",
-    "tags":[
-      "Web Development",
-      "Laravel",
-      "JavaScript",
-      "Vue.js",
-      "PHP"
-    ],
-    "links":{
-      "GitHub":"https://github.com/qwici",
-      "Twitter":"https://twitter.com/kucherdev",
-      "Twitch":"https://www.twitch.tv/devkucher",
-      "LinkedIn":"https://www.linkedin.com/in/vaniakucher/",
-      "Youtube":"https://www.youtube.com/user/TheMrVanisha"
-    }
-  },
-  {
-    "name":"PixelogicDev",
-    "twitch":"pixelogicdev",
-    "tags":[
-      "Web Development",
-      "Mobile Development",
-      "JavaScript",
-      "Swift",
-      "Node.js"
-    ],
-    "links":{
-      "GitHub":"https://github.com/PixelogicDev",
-      "Twitter":"https://twitter.com/alec_dilanchian",
-      "Twitch":"https://www.twitch.tv/pixelogicdev",
-      "LinkedIn":"https://www.linkedin.com/in/adilanchian/"
-    }
-  },
-  {
-    "name":"FunnyGuy77",
-    "twitch":"funnyguy77",
-    "tags":[
-      "Unity3d",
-      "Game Development",
-      "C#",
-      "Blender"
-    ],
-    "links":{
-      "Twitter":"https://twitter.com/FunnyGuyTwitch",
-      "Twitch":"https://www.twitch.tv/funnyguy77",
-      "My game":"http://fortygame.com/"
-    }
-  },
-  {
-    "name": "Geert-Johan",
-    "twitch": "geertjohan",
-    "tags": ["Go", "Programming"],
-    "links": {
-      "GitHub": "https://github.com/GeertJohan",
-      "Twitter": "https://twitter.com/GeertJohan",
-      "Twitch": "https://www.twitch.tv/geertjohan"
-    }
-  },
-  {
-    "name": "Rúben Gomes",
-    "twitch": "rgomex",
-    "tags": ["Web Development", "API's", "Programming", "Node.js", "ES6/ES7", "JavaScript", "Vue"],
-    "links": {
-      "discord": "https://discord.gg/4qDQdXu",
-      "github": "https://github.com/rubengomex",
-      "website": "https://rubengomes10.github.io/",
-      "Twitch": "https://www.twitch.tv/rgomex"
-    }
-  },
-  {
-    "name": "rockzombie2",
-    "twitch": "rockzombie2",
-    "tags": ["JavaScript", "Programming", "Node.js", "Web Development", "Vim", "League of Legends"],
-    "links": {
-      "GitHub": "https://github.com/cpadilla",
-      "Twitter": "https://twitter.com/rockzombie2",
-      "Twitch": "https://www.twitch.tv/rockzombie2"
-    }
-  },
-  {
-    "name": "HarlanJI",
-    "twitch": "ispoogedaily",
-    "tags": ["Clojure", "Docker", "Architecture", "Product Design", "Livestreaming"],
-    "links": {
-      "Website": "https://ispooge.com",
-      "AuthorWebsite": "https://harlanji.com",
-      "GitHub": "https://github.com/harlanji",
-      "Patreon": "https://patreon.com/harlanji",
-      "Twitter": "https://twitter.com/ispoogedaily",
-      "SpoogeTube": "https://ispooge.com/live.html",
-      "YouTube": "https://www.youtube.com/channel/UCUMn9G0yzhQWXiRTOmPLXOg",
-      "Gab.ai": "https://gab.ai/ispooge",
-      "SteemIt": "http://steemit.com/@ispooge",
-      "DTube": "https://d.tube/#!/c/ispooge"
-    }
-  },
-  {
-    "name": "James Pain",
-    "twitch": "jpainio",
-    "tags": ["C#", "DevOps", "Computer Vision", "Web Development", "Azure"],
-    "links": {
-      "Website": "http://jpain.io",
-      "GitHub": "https://github.com/jpain",
-      "Twitter": "https://twitter.com/jpainio",
-      "Twitch": "https://www.twitch.tv/jpainio",
-      "LinkedIn":"https://www.linkedin.com/in/jpainio/"
-    }
-  },
-  {
-    "name":"Noob Dev Gedöns",
-    "twitch":"noobdevtv",
-    "tags":[
-      "C#",
-      "Games",
-      "Engenious",
-      "Education",
-      "German",
-      "OctoAwesome",
-      "AntMe",
-      "Noobs",
-      "DotNet",
-      "CodeTalk"
-    ],
-    "links":{
-      "GitHub":"https://github.com/NoobDevTv",
-      "Twitter":"https://twitter.com/Noob_Dev_Tv",
-      "Twitch":"https://www.twitch.tv/noobdevtv",
-      "Teamspeak":"ts3server://drachenfeste.eu/",
-      "Youtube":"https://www.youtube.com/channel/UCIWEvJ9SHMQoouIe86z6buQ",
-      "Telegram":"https://t.me/NoobDevStream"
-    }
-  },
-  {
-    "name": "tek256",
-    "twitch": "tek256",
-    "tags": ["C", "OpenGL", "Game Development"],
-    "links": {
-      "Website": "https://tek256.com/",
-      "Twitch": "https://www.twitch.tv/tek256",
-      "GitHub": "https://github.com/tek256",
-      "Twitter": "https://twitter.com/tek256",
-      "Patreon": "https://www.patreon.com/tek256"
-    }
-  },
-  {
-    "name": "Levi makes apps",
-    "twitch": "levimakesapps",
-    "tags": ["OSS", "iOS", "Android", "Product Design", "API's", "Node.js"],
-    "links": {
-      "Website": "https://levimakesapps.com/",
-      "Twitch": "https://twitch.tv/levimakesapps",
-      "GitHub": "https://github.com/levibostian",
-      "Twitter": "https://twitter.com/levimakesapps",
-      "YouTube": "https://www.youtube.com/channel/UCi6LazKSCVOWAT2cYGiEgVQ"
-    }
-  },
-  {
-    "name": "Brian McKenna",
-    "twitch": "puffnfresh",
-    "tags": ["Haskell", "Functional Programming"],
-    "links": {
-      "Twitch": "https://www.twitch.tv/puffnfresh",
-      "Github": "https://github.com/puffnfresh",
-      "Youtube": "https://www.youtube.com/c/BrianMcKennaPuffnfresh",
-      "BitBucket": "https://bitbucket.org/puffnfresh",
-      "Twitter": "https://twitter.com/puffnfresh",
-      "Website": "https://brianmckenna.org/blog/"
-    }
-  },
-  {
-    "name": "Edward Kmett",
-    "twitch": "ekmett",
-    "tags": ["Haskell"],
-    "links": {
-      "Twitch": "https://www.twitch.tv/ekmett",
-      "Website": "http://comonad.com/",
-      "GitHub": "https://github.com/ekmett",
-      "Twitter": "https://twitter.com/kmett",
-      "Youtube": "https://www.youtube.com/user/edwardkmett"
-    }
-  },
-  {
-    "name": "Scope Web LLC",
-    "twitch": "ScopeWebLLC",
-    "tags": [
-      "Node.js",
-      "Laravel",
-      "JavaScript",
-      "Full Stack Development",
-      "Web Agency",
-      "Web Development"
-    ],
-    "links": {
-      "Twitch": "https://twitch.tv/scopewebllc",
-      "Discord": "https://discord.gg/sQbZb6z",
-      "Instagram": "https://instagram.com/scopeweb",
-      "Website": "https://www.scopeweb.nyc",
-      "GitHub": "https://github.com/scopeweb",
-      "Twitter": "https://twitter.com/scopewebnyc"
-    }
-  },
-  {
-    "name": "Stephan Moerman",
-    "twitch": "DevBowser",
-    "tags": [
-      "PHP",
-      "Laravel",
-      "Ruby on Rails",
-      "Full Stack Development",
-      "Freelancer",
-      "Web Development"
-    ],
-    "links": {
-      "Twitch": "https://twitch.tv/devbowser",
-      "Discord": "https://discord.gg/sQbZb6z",
-      "Instagram": "https://instagram.com/stephan.m90",
-      "Website": "https://www.stmoerman.me",
-      "GitHub": "https://github.com/devbowser",
-      "Twitter": "https://twitter.com/stmoerman"
-    }
-  },
-  {
-    "name": "Nathan Henniges",
-    "twitch": "MrDemonWolf",
-    "tags": [
-      "Grav CMS",
-      "WordPress",
-      "JavaScript",
-      "UI design",
-      "Web Development"
-    ],
-    "links": {
-      "Twitch": "https://twitch.tv/mrdemonwolf",
-      "Discord": "https://discord.gg/KNyYZMu",
-      "Instagram": "https://instagram.com/scopeweb",
-      "Website": "https://www.mrdemonwolf.me",
-      "GitHub": "https://github.com/mrdemonwolf",
-      "Twitter": "https://twitter.com/mrdemonwolf"
-    }
-  },
-  {
-    "name": "PeteyCodes",
-    "twitch": "peteycodes",
-    "tags": [
-      "Game Development",
-      "C",
-      "Positivity"
-    ],
-    "links": {
-      "Twitch": "https://twitch.tv/peteycodes",
-      "GitHub": "https://github.com/peteycodes",
-      "Twitter": "https://twitter.com/peteycodes",
-      "YouTube": "https://youtube.com/peteycodes"
-    }
-  }
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/wildn00b",
+			"GitHub": "https://github.com/Vild/"
+		}
+	},
+	{
+		"name": "sirmre",
+		"twitch": "sirmre",
+		"tags": [
+			"Node.js",
+			"React",
+			"JavaScript"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/sirmre"
+		}
+	},
+	{
+		"name": "Joel Purra",
+		"twitch": "joelpurra",
+		"tags": [
+			"Node.js",
+			"Typescript",
+			"JavaScript"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/joelpurra",
+			"GitHub": "https://github.com/joelpurra",
+			"Twitter": "https://twitter.com/joelpurra"
+		}
+	},
+	{
+		"name": "David Joffe",
+		"twitch": "david_joffe",
+		"tags": [
+			"C++",
+			"PHP",
+			"2D",
+			"Game Development",
+			"Platform shooter",
+			"Applications",
+			"Web Development",
+			"wxWidgets",
+			"Languages",
+			"Unicode",
+			"Localization",
+			"Terminology",
+			"Lexicography",
+			"Dictionaries",
+			"Photoshop",
+			"Art",
+			"Open Source",
+			"Visual Studio",
+			"LibSDL",
+			"Linux",
+			"Cross-platform",
+			"Retro"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/david_joffe",
+			"YouTube": "https://www.youtube.com/channel/UC6FDv1AsC7Ozwl5DxnkpqPA",
+			"Periscope": "https://www.pscp.tv/DavidJoffe",
+			"Mixer": "https://mixer.com/gnukem111",
+			"GitHub": "http://github.com/davidjoffe",
+			"LiveEdu": "https://www.liveedu.tv/david_joffe/",
+			"website": "http://djoffe.com/",
+			"Instagram": "https://www.instagram.com/joffe.david/",
+			"Twitter": "https://twitter.com/d_joffe",
+			"LinkedIn": "https://www.linkedin.com/in/david-joffe-50771b4",
+			"Facebook": "https://www.facebook.com/david.joffe.art/"
+		}
+	},
+	{
+		"name": "5upercircuits",
+		"twitch": "5upercircuits",
+		"tags": [
+			"Embedded",
+			"Electronics",
+			"ARM",
+			"C",
+			"C++"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/5upercircuits",
+			"Website": "http://5upercircuits.com/",
+			"Twitter": "https://twitter.com/5uperCircuits",
+			"Facebook": "https://www.facebook.com/5uperCircuits/"
+		}
+	},
+	{
+		"name": "Calvin Allen",
+		"twitch": "codebytes_tv",
+		"tags": [
+			"C#",
+			".NET",
+			".NET Core",
+			"ASP.NET",
+			"ASP.NET Core",
+			"Alexa",
+			"Typescript",
+			"JavaScript"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/codebytes_tv",
+			"Twitter": "https://twitter.com/codebytes_tv",
+			"GitHub": "https://github.com/CodeBytesTV",
+			"YouTube": "https://www.youtube.com/channel/UCeyV-rDg85evpxiZ28NlI0Q"
+		}
+	},
+	{
+		"name": "Jamie Taylor",
+		"twitch": "gaprogman",
+		"tags": [
+			"C#",
+			".NET",
+			".NET Core",
+			"Web Development",
+			"Software Development"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/gaprogman",
+			"Twitter": "https://twitter.com/dotnetcoreblog",
+			"Website": "https://dotnetcore.gaprogman.com",
+			"Github": "https://github.com/gaprogman",
+			"LinkedIn": "https://www.linkedin.com/in/jamie-taylor-57602959/",
+			"Youtube": "https://www.youtube.com/channel/UCTDz8IxVCKPmhLemR9eOLPQ"
+		}
+	},
+	{
+		"name": "Nicolás Marulanda P.",
+		"twitch": "nmarulo",
+		"tags": [
+			"Web Development",
+			"JAVA",
+			"PHP",
+			"C#",
+			"JavaScript",
+			"MySQL",
+			"Bootstrap CSS"
+		],
+		"links": {
+			"Github": "https://github.com/nmarulo",
+			"Website": "http://softn.red",
+			"Twitter": "https://twitter.com/nmarulo",
+			"Twitch": "https://www.twitch.tv/nmarulo"
+		}
+	},
+	{
+		"name": "Jen Tong",
+		"twitch": "mimmingcodes",
+		"tags": [
+			"STEM",
+			"Programming",
+			"Python",
+			"NodeJS",
+			"Hexo",
+			"Firebase",
+			"IoT"
+		],
+		"links": {
+			"Github": "https://github.com/mimming",
+			"Website": "https://mimming.com",
+			"Twitter": "https://twitter.com/MimmingCodes",
+			"Twitch": "https://www.twitch.tv/mimmingcodes"
+		}
+	},
+	{
+		"name": "Per Vognsen",
+		"twitch": "pervognsen",
+		"tags": [
+			"FPGA",
+			"C",
+			"C++",
+			"Python",
+			"Operating System Development",
+			"Systems Applications",
+			"Kernel Programming",
+			"Hardware"
+		],
+		"links": {
+			"Github": "https://github.com/pervognsen/bitwise",
+			"Discord": "https://discordapp.com/invite/7TSA6ZF",
+			"Twitter": "https://twitter.com/pervognsen",
+			"Twitch": "https://www.twitch.tv/pervognsen",
+			"Youtube": "https://youtube.com/c/pervognsen"
+		}
+	},
+	{
+		"name": "Dan Jasnowski",
+		"twitch": "danjasnowski",
+		"tags": [
+			"Web Development",
+			"Node.js",
+			"Game Development",
+			"JavaScript",
+			"Vue.js",
+			"PHP",
+			"Laravel"
+		],
+		"links": {
+			"GitHub": "https://github.com/naknode",
+			"Twitter": "https://twitter.com/danjasnowski",
+			"Twitch": "https://www.twitch.tv/danjasnowski",
+			"LinkedIn": "https://www.linkedin.com/in/danjp/"
+		}
+	},
+	{
+		"name": "Vania Kucher",
+		"twitch": "devkucher",
+		"tags": [
+			"Web Development",
+			"Laravel",
+			"JavaScript",
+			"Vue.js",
+			"PHP"
+		],
+		"links": {
+			"GitHub": "https://github.com/qwici",
+			"Twitter": "https://twitter.com/kucherdev",
+			"Twitch": "https://www.twitch.tv/devkucher",
+			"LinkedIn": "https://www.linkedin.com/in/vaniakucher/",
+			"Youtube": "https://www.youtube.com/user/TheMrVanisha"
+		}
+	},
+	{
+		"name": "PixelogicDev",
+		"twitch": "pixelogicdev",
+		"tags": [
+			"Web Development",
+			"Mobile Development",
+			"JavaScript",
+			"Swift",
+			"Node.js"
+		],
+		"links": {
+			"GitHub": "https://github.com/PixelogicDev",
+			"Twitter": "https://twitter.com/alec_dilanchian",
+			"Twitch": "https://www.twitch.tv/pixelogicdev",
+			"LinkedIn": "https://www.linkedin.com/in/adilanchian/"
+		}
+	},
+	{
+		"name": "FunnyGuy77",
+		"twitch": "funnyguy77",
+		"tags": [
+			"Unity3d",
+			"Game Development",
+			"C#",
+			"Blender"
+		],
+		"links": {
+			"Twitter": "https://twitter.com/FunnyGuyTwitch",
+			"Twitch": "https://www.twitch.tv/funnyguy77",
+			"My game": "http://fortygame.com/"
+		}
+	},
+	{
+		"name": "Geert-Johan",
+		"twitch": "geertjohan",
+		"tags": ["Go", "Programming"],
+		"links": {
+			"GitHub": "https://github.com/GeertJohan",
+			"Twitter": "https://twitter.com/GeertJohan",
+			"Twitch": "https://www.twitch.tv/geertjohan"
+		}
+	},
+	{
+		"name": "Rúben Gomes",
+		"twitch": "rgomex",
+		"tags": ["Web Development", "API's", "Programming", "Node.js", "ES6/ES7", "JavaScript", "Vue"],
+		"links": {
+			"discord": "https://discord.gg/4qDQdXu",
+			"github": "https://github.com/rubengomex",
+			"website": "https://rubengomes10.github.io/",
+			"Twitch": "https://www.twitch.tv/rgomex"
+		}
+	},
+	{
+		"name": "rockzombie2",
+		"twitch": "rockzombie2",
+		"tags": ["JavaScript", "Programming", "Node.js", "Web Development", "Vim", "League of Legends"],
+		"links": {
+			"GitHub": "https://github.com/cpadilla",
+			"Twitter": "https://twitter.com/rockzombie2",
+			"Twitch": "https://www.twitch.tv/rockzombie2"
+		}
+	},
+	{
+		"name": "HarlanJI",
+		"twitch": "ispoogedaily",
+		"tags": ["Clojure", "Docker", "Architecture", "Product Design", "Livestreaming"],
+		"links": {
+			"Website": "https://ispooge.com",
+			"AuthorWebsite": "https://harlanji.com",
+			"GitHub": "https://github.com/harlanji",
+			"Patreon": "https://patreon.com/harlanji",
+			"Twitter": "https://twitter.com/ispoogedaily",
+			"SpoogeTube": "https://ispooge.com/live.html",
+			"YouTube": "https://www.youtube.com/channel/UCUMn9G0yzhQWXiRTOmPLXOg",
+			"Gab.ai": "https://gab.ai/ispooge",
+			"SteemIt": "http://steemit.com/@ispooge",
+			"DTube": "https://d.tube/#!/c/ispooge"
+		}
+	},
+	{
+		"name": "James Pain",
+		"twitch": "jpainio",
+		"tags": ["C#", "DevOps", "Computer Vision", "Web Development", "Azure"],
+		"links": {
+			"Website": "http://jpain.io",
+			"GitHub": "https://github.com/jpain",
+			"Twitter": "https://twitter.com/jpainio",
+			"Twitch": "https://www.twitch.tv/jpainio",
+			"LinkedIn": "https://www.linkedin.com/in/jpainio/"
+		}
+	},
+	{
+		"name": "Noob Dev Gedöns",
+		"twitch": "noobdevtv",
+		"tags": [
+			"C#",
+			"Games",
+			"Engenious",
+			"Education",
+			"German",
+			"OctoAwesome",
+			"AntMe",
+			"Noobs",
+			"DotNet",
+			"CodeTalk"
+		],
+		"links": {
+			"GitHub": "https://github.com/NoobDevTv",
+			"Twitter": "https://twitter.com/Noob_Dev_Tv",
+			"Twitch": "https://www.twitch.tv/noobdevtv",
+			"Teamspeak": "ts3server://drachenfeste.eu/",
+			"Youtube": "https://www.youtube.com/channel/UCIWEvJ9SHMQoouIe86z6buQ",
+			"Telegram": "https://t.me/NoobDevStream"
+		}
+	},
+	{
+		"name": "tek256",
+		"twitch": "tek256",
+		"tags": ["C", "OpenGL", "Game Development"],
+		"links": {
+			"Website": "https://tek256.com/",
+			"Twitch": "https://www.twitch.tv/tek256",
+			"GitHub": "https://github.com/tek256",
+			"Twitter": "https://twitter.com/tek256",
+			"Patreon": "https://www.patreon.com/tek256"
+		}
+	},
+	{
+		"name": "Levi makes apps",
+		"twitch": "levimakesapps",
+		"tags": ["OSS", "iOS", "Android", "Product Design", "API's", "Node.js"],
+		"links": {
+			"Website": "https://levimakesapps.com/",
+			"Twitch": "https://twitch.tv/levimakesapps",
+			"GitHub": "https://github.com/levibostian",
+			"Twitter": "https://twitter.com/levimakesapps",
+			"YouTube": "https://www.youtube.com/channel/UCi6LazKSCVOWAT2cYGiEgVQ"
+		}
+	},
+	{
+		"name": "Brian McKenna",
+		"twitch": "puffnfresh",
+		"tags": ["Haskell", "Functional Programming"],
+		"links": {
+			"Twitch": "https://www.twitch.tv/puffnfresh",
+			"Github": "https://github.com/puffnfresh",
+			"Youtube": "https://www.youtube.com/c/BrianMcKennaPuffnfresh",
+			"BitBucket": "https://bitbucket.org/puffnfresh",
+			"Twitter": "https://twitter.com/puffnfresh",
+			"Website": "https://brianmckenna.org/blog/"
+		}
+	},
+	{
+		"name": "Edward Kmett",
+		"twitch": "ekmett",
+		"tags": ["Haskell"],
+		"links": {
+			"Twitch": "https://www.twitch.tv/ekmett",
+			"Website": "http://comonad.com/",
+			"GitHub": "https://github.com/ekmett",
+			"Twitter": "https://twitter.com/kmett",
+			"Youtube": "https://www.youtube.com/user/edwardkmett"
+		}
+	},
+	{
+		"name": "Scope Web LLC",
+		"twitch": "ScopeWebLLC",
+		"tags": [
+			"Node.js",
+			"Laravel",
+			"JavaScript",
+			"Full Stack Development",
+			"Web Agency",
+			"Web Development"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/scopewebllc",
+			"Discord": "https://discord.gg/sQbZb6z",
+			"Instagram": "https://instagram.com/scopeweb",
+			"Website": "https://www.scopeweb.nyc",
+			"GitHub": "https://github.com/scopeweb",
+			"Twitter": "https://twitter.com/scopewebnyc"
+		}
+	},
+	{
+		"name": "Stephan Moerman",
+		"twitch": "DevBowser",
+		"tags": [
+			"PHP",
+			"Laravel",
+			"Ruby on Rails",
+			"Full Stack Development",
+			"Freelancer",
+			"Web Development"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/devbowser",
+			"Discord": "https://discord.gg/sQbZb6z",
+			"Instagram": "https://instagram.com/stephan.m90",
+			"Website": "https://www.stmoerman.me",
+			"GitHub": "https://github.com/devbowser",
+			"Twitter": "https://twitter.com/stmoerman"
+		}
+	},
+	{
+		"name": "Nathan Henniges",
+		"twitch": "MrDemonWolf",
+		"tags": [
+			"Grav CMS",
+			"WordPress",
+			"JavaScript",
+			"UI design",
+			"Web Development"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/mrdemonwolf",
+			"Discord": "https://discord.gg/KNyYZMu",
+			"Instagram": "https://instagram.com/scopeweb",
+			"Website": "https://www.mrdemonwolf.me",
+			"GitHub": "https://github.com/mrdemonwolf",
+			"Twitter": "https://twitter.com/mrdemonwolf"
+		}
+	},
+	{
+		"name": "Gregory Dizzia",
+		"twitch": "Omatum_Greg",
+		"tags": [
+			"App development",
+			"Wireframing",
+			"Ruby on Rails",
+			"UI / UX design",
+			"Business strategy",
+			"Web Development"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/omatum_greg",
+			"Discord": "https://discord.gg/rb6DekC",
+			"LinkedIn": "https://www.linkedin.com/in/gregdizzia/",
+			"Company Website": "https://www.omatum.com/",
+			"Personal Website": "http://www.gregdizzia.com/",
+			"GitHub": "https://github.com/omatum",
+			"Twitter": "https://twitter.com/gregdizzia"
+		}
+	},
+	{
+		"name": "PeteyCodes",
+		"twitch": "peteycodes",
+		"tags": [
+			"Game Development",
+			"C",
+			"Positivity"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/peteycodes",
+			"GitHub": "https://github.com/peteycodes",
+			"Twitter": "https://twitter.com/peteycodes",
+			"YouTube": "https://youtube.com/peteycodes"
+		}
+	}
 ]
