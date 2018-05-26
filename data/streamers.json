@@ -11,7 +11,7 @@
 			"Slack": "https://exoslack.now.sh"
 		}
 	},
- 	{
+	{
 		"name": "Danny Brown",
 		"twitch": "dannyrbrown",
 		"tags": ["Vue", "VueJS", "C#", "CSharp", ".NET", "dotnet", ".NET Core", "dotnet core", "javascript", "DevOps", "Web Development", "Full Stack"],
@@ -1330,6 +1330,27 @@
 			"Website": "https://www.sceen.net/",
 			"X15 IRC": "https://webchat.freenode.net/?channels=x15",
 			"YouTube": "https://www.youtube.com/channel/UCzAlfq3INU-vE1z3FJASu-Q"
+		}
+	},
+	{
+		"name": "Coding with Jesse",
+		"twitch": "jesseskinner",
+		"tags": [
+			"Web Development",
+			"JavaScript",
+			"CSS",
+			"HTML",
+			"React",
+			"Node.js",
+			"PHP",
+			"Lua"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/jesseskinner",
+			"GitHub": "https://github.com/jesseskinner",
+			"Twitter": "https://twitter.com/jesseskinner",
+			"YouTube": "https://youtube.com/codingwithjesse",
+			"Website": "https://codingwithjesse.com"
 		}
 	}
 ]
