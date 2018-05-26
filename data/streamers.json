@@ -12,6 +12,18 @@
 		}
 	},
 	{
+		"name": "Danny Brown",
+		"twitch": "dannyrbrown",
+		"tags": ["Vue", "VueJS", "C#", "CSharp", ".NET", "dotnet", ".NET Core", "dotnet core", "javascript", "DevOps", "Web Development", "Full Stack"],
+		"links": {
+			"Twitch": "https://www.twitch.tv/dannyrbrown",
+			"GitHub": "https://github.com/dannyrb",
+			"Website": "https://www.coffee-driven-dev.com",
+			"Twitter": "https://twitter.com/danny_brown13",
+			"Discord": "https://discord.gg/jphQw8t"
+		}
+	},
+	{
 		"name": "Jeff Lindsay",
 		"twitch": "progrium",
 		"tags": [
@@ -1298,6 +1310,26 @@
 			"GitHub": "https://github.com/nybblesio",
 			"Twitter": "https://twitter.com/nybbles_io",
 			"YouTube": "https://youtube.com/nybblesio"
+		}
+	},
+	{
+		"name": "Richard Braun",
+		"twitch": "syanoks",
+		"tags": [
+			"Assembly",
+			"C",
+			"Kernel Development",
+			"Python",
+			"Shell",
+			"UNIX"
+		],
+		"links": {
+			"Twitch": "https://twitch.tv/syanoks",
+			"GitHub": "https://github.com/richardbraun",
+			"Personal Git Server": "https://git.sceen.net",
+			"Website": "https://www.sceen.net/",
+			"X15 IRC": "https://webchat.freenode.net/?channels=x15",
+			"YouTube": "https://www.youtube.com/channel/UCzAlfq3INU-vE1z3FJASu-Q"
 		}
 	},
 	{
