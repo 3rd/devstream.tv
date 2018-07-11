@@ -892,26 +892,6 @@
 		}
 	},
 	{
-		"name": "Calvin Allen",
-		"twitch": "codebytes_tv",
-		"tags": [
-			"C#",
-			".NET",
-			".NET Core",
-			"ASP.NET",
-			"ASP.NET Core",
-			"Alexa",
-			"Typescript",
-			"JavaScript"
-		],
-		"links": {
-			"Twitch": "https://twitch.tv/codebytes_tv",
-			"Twitter": "https://twitter.com/codebytes_tv",
-			"GitHub": "https://github.com/CodeBytesTV",
-			"YouTube": "https://www.youtube.com/channel/UCeyV-rDg85evpxiZ28NlI0Q"
-		}
-	},
-	{
 		"name": "Jamie Taylor",
 		"twitch": "gaprogman",
 		"tags": [
