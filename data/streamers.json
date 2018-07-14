@@ -1341,5 +1341,22 @@
 			"YouTube": "https://youtube.com/codingwithjesse",
 			"Website": "https://codingwithjesse.com"
 		}
+	},
+	{
+		"name": "Jeff Lindsay",
+		"twitch": "progrium",
+		"tags": [
+			"Open Source",
+			"GOlang",
+			"Programming",
+			"Indie Game Development"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/progrium",
+			"GitHub": "https://github.com/progrium",
+			"Twitter": "https://twitter.com/progrium",
+			"YouTube": "https://www.youtube.com/channel/UCoej7Lrz8ugDp1ZHmYyjOsg",
+			"Website": "http://progrium.com"
+		}
 	}
 ]
