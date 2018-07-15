@@ -1358,5 +1358,22 @@
 			"YouTube": "https://www.youtube.com/channel/UCoej7Lrz8ugDp1ZHmYyjOsg",
 			"Website": "http://progrium.com"
 		}
+  },
+  {
+		"name": "Jon Gjengset",
+		"twitch": "jonfrg",
+		"tags": [
+			"Open Source",
+			"Rust",
+			"Programming"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/jonfrg",
+			"GitHub": "https://github.com/jonhoo",
+			"Twitter": "https://twitter.com/jonhoo",
+			"YouTube": "https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ",
+      "Website": "https://thesquareplanet.com/",
+      "Patreon": "https://www.patreon.com/jonhoo"
+		}
 	}
 ]
