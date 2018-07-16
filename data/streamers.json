@@ -1,7 +1,18 @@
 [{
 		"name": "Avaer Kazmer",
 		"twitch": "avaer",
-		"tags": ["AR Development", "Mixed Reality", "Magic Leap", "Web Development", "API's", "Programming", "Node.js", "ES6/ES7", "JavaScript", "OpenGL"],
+		"tags": [
+			"AR Development",
+			"Mixed Reality",
+			"Magic Leap",
+			"Web Development",
+			"API's",
+			"Programming",
+			"Node.js",
+			"ES6/ES7",
+			"JavaScript",
+			"OpenGL"
+		],
 		"links": {
 			"Website": "https://webmr.io",
 			"GitHub": "https://github.com/webmixedreality",
@@ -14,7 +25,20 @@
 	{
 		"name": "Danny Brown",
 		"twitch": "dannyrbrown",
-		"tags": ["Vue", "VueJS", "C#", "CSharp", ".NET", "dotnet", ".NET Core", "dotnet core", "javascript", "DevOps", "Web Development", "Full Stack"],
+		"tags": [
+			"Vue",
+			"VueJS",
+			"C#",
+			"CSharp",
+			".NET",
+			"dotnet",
+			".NET Core",
+			"dotnet core",
+			"javascript",
+			"DevOps",
+			"Web Development",
+			"Full Stack"
+		],
 		"links": {
 			"Twitch": "https://www.twitch.tv/dannyrbrown",
 			"GitHub": "https://github.com/dannyrb",
@@ -63,9 +87,7 @@
 		"tags": [
 			"Game Development"
 		],
-		"links": {
-
-		}
+		"links": {}
 	},
 	{
 		"name": "Jonathan Blow",
@@ -799,9 +821,7 @@
 	{
 		"name": "wildn00b",
 		"twitch": "wildn00b",
-		"tags": [
-
-		],
+		"tags": [],
 		"links": {
 			"Twitch": "https://www.twitch.tv/wildn00b",
 			"GitHub": "https://github.com/Vild/"
@@ -1061,7 +1081,10 @@
 	{
 		"name": "Geert-Johan",
 		"twitch": "geertjohan",
-		"tags": ["Go", "Programming"],
+		"tags": [
+			"Go",
+			"Programming"
+		],
 		"links": {
 			"GitHub": "https://github.com/GeertJohan",
 			"Twitter": "https://twitter.com/GeertJohan",
@@ -1071,7 +1094,15 @@
 	{
 		"name": "Rúben Gomes",
 		"twitch": "rgomex",
-		"tags": ["Web Development", "API's", "Programming", "Node.js", "ES6/ES7", "JavaScript", "Vue"],
+		"tags": [
+			"Web Development",
+			"API's",
+			"Programming",
+			"Node.js",
+			"ES6/ES7",
+			"JavaScript",
+			"Vue"
+		],
 		"links": {
 			"discord": "https://discord.gg/4qDQdXu",
 			"github": "https://github.com/rubengomex",
@@ -1082,7 +1113,14 @@
 	{
 		"name": "rockzombie2",
 		"twitch": "rockzombie2",
-		"tags": ["JavaScript", "Programming", "Node.js", "Web Development", "Vim", "League of Legends"],
+		"tags": [
+			"JavaScript",
+			"Programming",
+			"Node.js",
+			"Web Development",
+			"Vim",
+			"League of Legends"
+		],
 		"links": {
 			"GitHub": "https://github.com/cpadilla",
 			"Twitter": "https://twitter.com/rockzombie2",
@@ -1092,7 +1130,13 @@
 	{
 		"name": "HarlanJI",
 		"twitch": "ispoogedaily",
-		"tags": ["Clojure", "Docker", "Architecture", "Product Design", "Livestreaming"],
+		"tags": [
+			"Clojure",
+			"Docker",
+			"Architecture",
+			"Product Design",
+			"Livestreaming"
+		],
 		"links": {
 			"Website": "https://ispooge.com",
 			"AuthorWebsite": "https://harlanji.com",
@@ -1109,7 +1153,13 @@
 	{
 		"name": "James Pain",
 		"twitch": "jpainio",
-		"tags": ["C#", "DevOps", "Computer Vision", "Web Development", "Azure"],
+		"tags": [
+			"C#",
+			"DevOps",
+			"Computer Vision",
+			"Web Development",
+			"Azure"
+		],
 		"links": {
 			"Website": "http://jpain.io",
 			"GitHub": "https://github.com/jpain",
@@ -1145,7 +1195,11 @@
 	{
 		"name": "tek256",
 		"twitch": "tek256",
-		"tags": ["C", "OpenGL", "Game Development"],
+		"tags": [
+			"C",
+			"OpenGL",
+			"Game Development"
+		],
 		"links": {
 			"Website": "https://tek256.com/",
 			"Twitch": "https://www.twitch.tv/tek256",
@@ -1157,7 +1211,14 @@
 	{
 		"name": "Levi makes apps",
 		"twitch": "levimakesapps",
-		"tags": ["OSS", "iOS", "Android", "Product Design", "API's", "Node.js"],
+		"tags": [
+			"OSS",
+			"iOS",
+			"Android",
+			"Product Design",
+			"API's",
+			"Node.js"
+		],
 		"links": {
 			"Website": "https://levimakesapps.com/",
 			"Twitch": "https://twitch.tv/levimakesapps",
@@ -1169,7 +1230,10 @@
 	{
 		"name": "Brian McKenna",
 		"twitch": "puffnfresh",
-		"tags": ["Haskell", "Functional Programming"],
+		"tags": [
+			"Haskell",
+			"Functional Programming"
+		],
 		"links": {
 			"Twitch": "https://www.twitch.tv/puffnfresh",
 			"Github": "https://github.com/puffnfresh",
@@ -1182,7 +1246,9 @@
 	{
 		"name": "Edward Kmett",
 		"twitch": "ekmett",
-		"tags": ["Haskell"],
+		"tags": [
+			"Haskell"
+		],
 		"links": {
 			"Twitch": "https://www.twitch.tv/ekmett",
 			"Website": "http://comonad.com/",
@@ -1342,7 +1408,7 @@
 			"Website": "https://codingwithjesse.com"
 		}
 	},
- {
+	{
 		"name": "Jeff Lindsay",
 		"twitch": "progrium",
 		"tags": [
@@ -1358,8 +1424,8 @@
 			"YouTube": "https://www.youtube.com/channel/UCoej7Lrz8ugDp1ZHmYyjOsg",
 			"Website": "http://progrium.com"
 		}
-  },
-  {
+	},
+	{
 		"name": "Jon Gjengset",
 		"twitch": "jonfrg",
 		"tags": [
@@ -1372,8 +1438,8 @@
 			"GitHub": "https://github.com/jonhoo",
 			"Twitter": "https://twitter.com/jonhoo",
 			"YouTube": "https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ",
-      			"Website": "https://thesquareplanet.com/",
-      			"Patreon": "https://www.patreon.com/jonhoo"
+			"Website": "https://thesquareplanet.com/",
+			"Patreon": "https://www.patreon.com/jonhoo"
 		}
 	}
 ]
