@@ -1342,7 +1342,7 @@
 			"Website": "https://codingwithjesse.com"
 		}
 	},
-	{
+ {
 		"name": "Jeff Lindsay",
 		"twitch": "progrium",
 		"tags": [
@@ -1372,8 +1372,8 @@
 			"GitHub": "https://github.com/jonhoo",
 			"Twitter": "https://twitter.com/jonhoo",
 			"YouTube": "https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ",
-      "Website": "https://thesquareplanet.com/",
-      "Patreon": "https://www.patreon.com/jonhoo"
+      			"Website": "https://thesquareplanet.com/",
+      			"Patreon": "https://www.patreon.com/jonhoo"
 		}
 	}
 ]
