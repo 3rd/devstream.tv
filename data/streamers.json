@@ -1441,5 +1441,29 @@
 			"Website": "https://thesquareplanet.com/",
 			"Patreon": "https://www.patreon.com/jonhoo"
 		}
+	},
+	{
+		"name": "Vincent Gabriel",
+		"twitch": "vincentcodes",
+		"tags": [
+			"Open Source",
+			"Vue.js",
+			"Vue",
+			"VueJS",
+			"Laravel",
+			"Node.js",
+      "JavaScript",
+      "PHP",
+      "Full Stack Development",
+			"Freelancer",
+			"Web Development",
+			"Developer Tooling",
+			"Programming"
+		],
+		"links": {
+			"Twitch": "https://www.twitch.tv/vincentcodes",
+			"GitHub": "https://github.com/vinceg",
+			"Twitter": "https://twitter.com/gabrielva"
+		}
 	}
 ]
