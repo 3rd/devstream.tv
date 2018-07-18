@@ -1,25 +1,31 @@
-# devstream.tv community repo
+# Devstream
 
-[devstream.tv](https://devstream.tv) is a website that indexes developers that stream on Twitch (for now) and lets you easily see which developers are streaming right now and offers you a nice interface to watch them.
 
-The site updates every 5 minutes from **this repo** (it updates the streamers list).
 
-This project is inspired by [https://github.com/bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
+[Devstream](https://devstream.tv) is a website that allows you to watch live developer streamers.
 
-## !!! Ideas, requests?
+All the content comes from this repo and is updated every 5 minutes.
 
-If you have ideas on how to make this cooler, or if you feel there is mandatory functionality missing please open an issue so we can discuss it.
+This project is inspired by [https://github.com/bnb/awesome-developer-streams
 
-### Streamer index
+](https://github.com/bnb/awesome-developer-streams)
 
-The streamer list and related information is in the ```data/streamers.json``` file.
-Each entry has a predefined set of properties, ensure you respect the "schema" when you submit a pull-request.
 
-The **links** object can contain **any number of links**, which will be mapped on devstream.tv to either certain icons (GitHub, Twitter, etc.) or labels of their key. 
 
-The format will be changed in the near future to also integrate YouTube, and all the current entries will be automatically migrated to the new format.
+#### Adding / modifying streams
+
+Each stream has its own JSON file under [/streams](https://github.com/neculaesei/devstream.tv/tree/master/streams). You can write that manually or you can use the [online generator](https://devstream.tv/submit-content) that makes everything easier.
+
+
+
+#### Stream config format
+
+Each stream configuration has a predefined set of properties, make sure you respect the "schema" when you submit a pull-request.
+
+The **links** object can contain **any number of links**, which will be mapped on devstream.tv to either certain icons (GitHub, Twitter, etc.) or the key name. 
 
 Example:
+
 ```json
 {
   "name": "Jane Doe",
@@ -33,10 +39,22 @@ Example:
 }
 ```
 
-### Contributing
 
-If you would like to add a streamer, fork the repo, add an entry to ```data/streamers.json``` and submit a pull request. The order the streamers are organized in does not matter, as devstream.tv will sort them by online viewers.
 
-### The source code of devstream.tv
+#### The frontend
 
-The full source code of devstream.tv will probably be open-sourced in the near future, I just want to make it work before I prepare it for OS collaboration.
+Devstream is built with Vue <3, you can find all the frontend code in the [https://github.com/neculaesei/devstream.tv/tree/master/frontend](frontend) folder. Feel free to open issues on the code and contribute to that as well.
+
+
+
+#### Requests and ideas?
+
+I'd really like for this project to grow and turn into something awesome in the future. If you have any ideas or you think there's stuff that can be done in a better way please reach out through an issue or directly.
+
+
+
+Here's a list of the things I have in mind and I'm already in the process of building:
+
+- Video section (videos, video channels & learning tracks)
+- Tag & Language filtering once we have enough content that it would help
+  - Twitch API provides a stream's language as well
