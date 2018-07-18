@@ -41,7 +41,7 @@ Example:
 
 #### The frontend
 
-Devstream is built with Vue <3, you can find all the frontend code in the [https://github.com/neculaesei/devstream.tv/tree/master/frontend](frontend) folder. Feel free to open issues on the code and contribute to that as well.
+Devstream is built with Vue <3, you can find all the frontend code in the [/frontend](https://github.com/neculaesei/devstream.tv/tree/master/frontend) folder. Feel free to open issues on the code and contribute to that as well.
 
 
 
