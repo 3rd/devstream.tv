@@ -2,7 +2,7 @@
 
 
 
-[Devstream](https://devstream.tv) is a website that allows you to watch live developer streamers.
+[Devstream](https://devstream.tv) is a website that allows you to watch live developer streams.
 
 All the content comes from this repo and is updated every 5 minutes.
 
