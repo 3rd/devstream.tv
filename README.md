@@ -6,9 +6,7 @@
 
 All the content comes from this repo and is updated every 5 minutes.
 
-This project is inspired by [https://github.com/bnb/awesome-developer-streams
-
-](https://github.com/bnb/awesome-developer-streams)
+This project is inspired by [https://github.com/bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
 
 
 
