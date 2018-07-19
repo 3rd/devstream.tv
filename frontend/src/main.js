@@ -16,8 +16,8 @@ Vue.use(VueClipboard)
 
 // Endpoint config
 Vue.prototype.$endpoints = {
-  streams: 'http://localhost:3000/api/streams',
-  liveStreams: 'http://localhost:3000/api/streams/live'
+  streams: 'https://devstream.tv/api/streams',
+  liveStreams: 'https://devstream.tv/api/streams/live'
 }
 
 Vue.config.productionTip = false
