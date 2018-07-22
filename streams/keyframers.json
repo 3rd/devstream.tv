@@ -1,0 +1,15 @@
+{
+  "name": "keyframers",
+  "twitch": "keyframers",
+  "tags": [
+    "Web Development",
+    "Programming",
+    "Animation",
+    "Collaborative Coding"
+  ],
+  "links": {
+    "Twitch": "https://www.twitch.tv/keyframers",
+    "YouTube": "https://www.youtube.com/keyframers",
+    "Twitter": "https://twitter.com/keyframers"
+  }
+}
