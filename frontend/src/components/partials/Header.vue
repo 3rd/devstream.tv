@@ -9,14 +9,14 @@
         </div>
       </mu-flex>
       <mu-flex class="switch-actions" justify-content="center" fill>
-        <ul class="switch">
+        <!-- <ul class="switch">
           <router-link tag="li" class="option" active-class="active" to="/">
             Live developers
           </router-link>
           <router-link v-if="false" tag="li" class="option" active-class="active" to="/videos">
             Videos
           </router-link>
-        </ul>
+        </ul> -->
       </mu-flex>
       <mu-flex class="menu-wrapper" justify-content="center" fill>
         <ul class="menu">
@@ -35,16 +35,15 @@
 <script>
 export default {
   name: 'Header',
-  data () {
-    return {
-    }
+  data() {
+    return {}
   }
 }
 </script>
 
 <style lang="scss" scoped>
 .app-header {
-  background: #4B67FA;
+  background: #4b67fa;
   color: white;
   padding: 30px 20px;
 }
@@ -65,7 +64,7 @@ li {
 }
 
 .switch {
-  background: #1E3AD0;
+  background: #1e3ad0;
   padding: 4px;
   border-radius: 20px;
 
@@ -75,7 +74,7 @@ li {
 
     &.router-link-exact-active {
       background: white;
-      color: #4B67FA;
+      color: #4b67fa;
     }
   }
 }
@@ -87,7 +86,7 @@ li {
     border: 2px solid transparent;
 
     &:hover {
-      background: #1E3AD0;
+      background: #1e3ad0;
     }
 
     &:not(:first-child) {
@@ -104,7 +103,7 @@ li {
   .app-header {
     padding: 40px 10px;
 
-    > .flex-wrapper{
+    > .flex-wrapper {
       display: block !important;
       > div {
         display: block !important;
