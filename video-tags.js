@@ -15,7 +15,7 @@ module.exports = [
   },
   {
     label: 'Go',
-    match: ['go', 'golang']
+    match: ['golang']
   },
   {
     label: 'C++',
