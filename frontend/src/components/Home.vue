@@ -17,6 +17,9 @@
       </p>
     </div>
     <div class="streams">
+      <mu-container class="filtered-tags-wrapper">
+        <mu-chip class="filtered-tags" v-for="tag, index in sortTags" :key="tag" :color="'success'" @delete="removeTag(index)" delete>{{tag}}</mu-chip>
+      </mu-container>
       <mu-flex
         class="flex-wrapper stream"
         justify-content="center"
@@ -38,7 +41,7 @@
             {{ stream.stream.title }}
           </div>
           <ul class="tags">
-            <li v-for="(tag, tagIndex) in stream.tags" :key="`tags-${streamIndex}-${tagIndex}`">
+            <li v-for="(tag, tagIndex) in stream.tags" :key="`tags-${streamIndex}-${tagIndex}`" @click="addTagToFilter(tag)">
               {{ tag }}
             </li>
           </ul>
@@ -104,8 +107,33 @@ export default {
   },
   data () {
     return {
+      allStreams: [],
       streams: [],
-      maxLinks: 3
+      maxLinks: 3,
+      sortTags: []
+    }
+  },
+  watch: {
+    sortTags: function (tags) {
+      if (tags.length <= 0) {
+        this.streams = this.allStreams
+        return
+      }
+
+      this.streams = this.allStreams.filter(stream => {
+        let status = false
+
+        for (let tag of tags) {
+          if (!stream.tags.includes(tag)) {
+            status = false
+            break
+          }
+
+          status = true
+        }
+
+        if (status) { return stream }
+      })
     }
   },
   computed: {
@@ -114,14 +142,19 @@ export default {
     }
   },
   methods: {
+    addTagToFilter (tag) {
+      if (this.sortTags.includes(tag)) { return false }
+      this.sortTags = [...this.sortTags, tag]
+    },
+    removeTag (index) {
+      this.sortTags.splice(index, 1)
+    },
     transformStreams (streams) {
       return streams.map(stream => {
         let oldStream = this.streams.find(e => e.twitch === stream.twitch)
-        if (oldStream) {
-          stream.viewAllLinks = oldStream.viewAllLinks
-        } else {
-          stream.viewAllLinks = false
-        }
+        stream.viewAllLinks = oldStream
+          ? oldStream.viewAllLinks
+          : false
         let links = Object.keys(stream.links).map(linkKey => {
           return {
             key: linkKey,
@@ -137,7 +170,7 @@ export default {
     },
     loadStreams () {
       axios.get(this.$endpoints.liveStreams).then(response => {
-        this.streams = this.transformStreams(response.data)
+        this.allStreams = this.streams = this.transformStreams(response.data)
       })
     },
     getLinkIcon (key) {
@@ -175,7 +208,7 @@ export default {
 <style lang="scss" scoped>
 .hero {
   text-align: center;
-  padding: 100px 20px;
+  padding: 100px 20px 30px;
 
   h1 {
     font-weight: 300;
@@ -194,6 +227,15 @@ export default {
     padding: 10px;
     border-radius: 8px;
   }
+}
+
+.filtered-tags-wrapper {
+  text-align: center;
+  margin-bottom: 30px;
+    .filtered-tags {
+      margin: 8px;
+      vertical-align: middle;
+    }
 }
 
 .stream {
@@ -252,6 +294,11 @@ export default {
       &:last-child {
         margin-right: 0;
       }
+      &:hover {
+          background-color: #2196f3;
+          color: #FFF;
+          cursor: pointer;
+      }
     }
   }
   .viewers {
@@ -259,7 +306,7 @@ export default {
     color: #989898;
     margin-bottom: 14px;
     line-height: 12px;
-    
+
     span, svg {
       display: inline-block;
       vertical-align: middle;
