@@ -1,0 +1,13 @@
+{
+  "name": "Adafruit",
+  "twitch": "adafruit",
+  "tags": [
+    "Hardware",
+    "Hardware Hacking",
+    "Arduino"
+  ],
+  "links": {
+    "Twitch": "https://www.twitch.tv/adafruit",
+    "Website": "https://www.adafruit.com/"
+  }
+}

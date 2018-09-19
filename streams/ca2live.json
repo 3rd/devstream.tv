@@ -1,0 +1,12 @@
+{
+  "name": "ca2",
+  "twitch": "ca2live",
+  "tags": [
+    "C++",
+    "Linux"
+  ],
+  "links": {
+    "Twitch": "https://www.twitch.tv/ca2live",
+    "GitHub": "https://github.com/ca2/"
+  }
+}

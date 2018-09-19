@@ -1,0 +1,41 @@
+{
+  "name": "Geoffrey Huntley",
+  "twitch": "geoffreyhuntley",
+  "tags": [
+    "Open Source Stuff",
+    "C#",
+    "Programming",
+    "ReactJS",
+    "Functional Programming",
+    "OSS",
+    "Linux",
+    "OSS Projects",
+    "Docker",
+    "Maintaining OSS Projects",
+    ".NET",
+    "OSS and Pair Programming",
+    "Developer Tooling",
+    "Open Source",
+    "Haskell",
+    "OSS maintenance",
+    "UNIX",
+    "Vim",
+    "Visual Studio",
+    "DotNet",
+    ".NET Core",
+    "Pair Programming",
+    "Electron",
+    "Mac",
+    "Windows",
+    "iOS",
+    "Android",
+    "Mobile Development"
+  ],
+  "links": {
+    "Website": "https://ghuntley.com/live",
+    "GitHub": "https://github.com/ghuntley",
+    "Twitch": "https://twitch.tv/geoffreyhuntley",
+    "Twitter": "https://twitter.com/geoffreyhuntley",
+    "LinkedIn": "https://linkedin.com/in/geoffreyhuntley"
+  }
+}
