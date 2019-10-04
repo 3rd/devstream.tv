@@ -1,0 +1,24 @@
+{
+  "name": "Codigo Falado",
+  "twitch": "codigofalado",
+  "tags": [
+    "CSS",
+    "SASS",
+    "Tailwind",
+    "Javascript",
+    "Typescript",
+    "Node.js",
+    "Vue.js",
+    "PHP",
+    "Laravel",
+    "Web Development",
+    "Portuguese"
+  ],
+  "links": {
+    "YouTube": "https://www.youtube.com/channel/UCtwkSRuugeCF1Bh8kxE55qQ",
+    "Twitch": "https://www.twitch.tv/codigofalado",
+    "Facebook": "https://www.facebook.com/codigofalado/",
+    "Twitter": "https://twitter.com/codigofalado",
+    "GitHub": "https://github.com/codigofalado"
+  }
+}
