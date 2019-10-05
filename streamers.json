@@ -1355,5 +1355,14 @@
       "YouTube": "https://www.youtube.com/user/supercryptonite",
       "GitHub": "https://github.com/notoriousb1t"
     }
+  },
+  {
+	"name": "Eduardo Santos de Brito",
+	"twitch": "britocoding",
+	"tags": ["Web Development", "Typescript", "React", "ReactJS", "Node.js", "JavaScript"],
+	"links": {
+	  "github": "https://github.com/EduSantosBrito/",
+	  "twitter": "https://twitter.com/edusantosbrito"
+	}
   }
 ]
