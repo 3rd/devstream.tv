@@ -1,0 +1,9 @@
+{
+  "name": "Cailir",
+  "twitch": "cailir",
+  "tags": ['NodeJS, HTML, CSS, JavaScript'],
+  "links": {
+    "GitHub": "https://github.com/cailir",
+    "Twitch": "https://www.twitch.tv/cailir"
+  }
+}
